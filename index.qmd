@@ -4,6 +4,7 @@ author: "Marck Vaisman"
 date: "March 26, 2024"
 format: 
   revealjs:
+    css: [custom.css, timeline.css]
     width: 1600
     height: 900
     pdf-separate-fragments: true

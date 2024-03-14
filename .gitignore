@@ -1,10 +1,10 @@
+.DS_Store
 .Rproj.user
 .Rhistory
 .Rdata
 .httr-oauth
-.DS_Store
 index_files
 index_cache
 index.html
-data
-R
+/.quarto/
+/_site/
