@@ -1,0 +1,253 @@
+---
+title: "What Makes for an Effective Data Practitioner in 2024"
+author: "Marck Vaisman"
+date: "March 26, 2024"
+format: 
+  revealjs:
+    width: 1600
+    height: 900
+    pdf-separate-fragments: true
+    slide-number: c/t
+    margin: 0.1
+    toc: false
+    slide-level: 2
+    embed-resources: true
+bibliography: references.bib
+---
+
+
+# Main Idea \# 1: This shit is hard
+
+# Main Idea \# 2: Teaching this shit is even harder
+
+# Main Idea \# 3: Mastering each data sub-discipline takes years to master
+
+# Main Idea \# 4: Unicorns don't exist (even though many want them to)
+
+# We really need to do something as a community
+
+# Main Idea \# 4: Data Science is a Team Ac
+
+## Why am I talking about this?
+- I want to be able to prepa
+
+:::{.notes}
+these are speaker notes
+:::
+
+
+## 
+
+Hi!
+
+## In 2010...
+
+<!-- comment -->
+
+
+![](img/conway-original.png){fig-align="center"}
+
+
+## Why
+
+<!-- comment -->
+
+
+![](img/cranston.jpeg){fig-align="center"}
+
+## AI Engineer
+
+<!-- comment -->
+
+
+![](img/aienginner-interview-job.jpeg){fig-align="center"}
+
+# Analyzing the Analyzers
+
+
+## Our work has been cited many times
+
+<!-- comment -->
+
+
+![](img/atan-citationgs.png){fig-align="center"}
+
+## 
+
+![](img/atan_03in01.png){fig-align="center"}
+
+## 
+
+![](img/atan_03in02.png){fig-align="center"}
+
+## 
+
+![](img/atan_03in04.png){fig-align="center"}
+
+## 
+
+![](img/atan_04in01.png){fig-align="center"}
+
+## 
+
+![](img/atan_04in02.png){fig-align="center"}
+
+## 
+
+![](img/atan_mosaic.png){fig-align="center"}
+
+## 
+
+![](img/cranston-heading.jpg){fig-align="center"}
+
+## 
+
+![](img/cranston.jpeg){fig-align="center"}
+
+## 
+
+![](img/data-scientist-definitions.png){fig-align="center"}
+
+## 
+
+![](img/dataiku-types-of-data-scientists.webp){fig-align="center"}
+
+## 
+
+![](img/gallego-competence-skill-knowledge-education.png){fig-align="center"}
+
+## 
+
+<!-- comment -->
+
+<!-- joke -->
+
+![](img/genai-interview-job.jpeg){fig-align="center"}
+
+
+
+
+
+## 
+
+![](img/josh-wills.png){fig-align="center"}
+
+## 
+
+![](img/szerovay-dataliteracy.webp){fig-align="center"}
+
+
+##
+
+# Teaching
+
+
+
+
+
+## We missed something along the way...
+
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNpZjgxdnlrd25xbTdjc3dxbzQxMXkzaG02amNqM255YjhoeTR0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B88DHpHV7Wd0c/giphy.gif)
+
+
+
+# Skills and Competencies
+
+
+# Mental model
+
+
+
+
+
+# Call to action
+
+
+
+# Orit Hazzan
+
+## 
+
+![](img/hazzan-data-science-and-data-thinking.png){fig-align="center"}
+
+
+## The complexities of defining data science
+
+- _science_
+- _research paradigm_
+- _research method_
+- _discipline_
+- _workflow_
+- _profession_ 
+
+## Takes a lifetime to master
+
+## Teaching big data
+
+## 
+
+
+
+
+
+## Baseline fundamental skillset
+
+
+
+## Warning: buzzword overload
+
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzI1cnAxb3NqZnk1ejN6Z3RicmtoNWRldTNoeWY4ZjUxYTNlZGxwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qs6ev2pm8g9dS/giphy.gif)
+
+
+## 
+
+![]
+
+
+## words representing skills associated with data science
+
+
+
+## WTF are we doing?
+
+The explosive growth in data science has led to confusion about the definitions of related tools, skills, and roles. Data scientists vary widely in expertise, from machine learning to data infrastructure. The lack of clarity extends to skill levels and qualifications for job titles. Employers struggle to define the role, leading to costs, while employees face challenges in finding suitable positions.
+
+
+||||
+|-|-|-|
+| Data Scientist _Generalist_ | Business Analyst | Database Architect |
+| Data Scientist _Machine Learning_ | Data and Analytics Manager | Business Intelligence Analyst |
+| Data Scientist _Artificial Intelligence_ | Marketing Data Analyst | Quantitative Analyst |
+| Data Analyst | Reports and Data Analyst | Computer and Information Research Scientist |
+| Data Architect | Operations Analytics Manager | Data Expert |
+| Data Engineer | Data and Analytics Solution Lead | Data Research Scientist |
+| AI Engineer | Big Data Developer/Engineer | Chief Data Officers |
+| Machine Learning Engineer | Database Administrator | Chief Analytics Officer |
+
+::: {aside}
+[@hamutcu_toward_2020]
+:::
+
+
+## There are many frameworks for skills and competencies
+
+- The EDISON project
+- 
+
+
+## I'm not the only one thinking about this
+
+##
+
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2V3NWJycnh6NXpxZzdhYW1pN2NnNGxiMm5uZGhuMWoxbnNzZHdybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cGqQr1GT4VFASrJaly/giphy-downsized-large.gif)
+
+
+## References
+
+::: {#refs}
+:::
+
+
+## What do I want?
+
+- I want to be able to prepa
