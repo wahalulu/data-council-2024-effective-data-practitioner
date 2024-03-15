@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "index.html#in-2010-drew-conway-gave-us-this---our-somewhat-reductionist-definition-of-a-data-unicorn",
+    "href": "index.html#in-2010-drew-conway-gave-us-this---our-somewhat-reductionist-definition-of-a-data-unicorn",
+    "title": "What Makes for an Effective Data Practitioner in 2024",
+    "section": "In 2010, Drew Conway gave us this - our somewhat reductionist definition of a data unicorn",
+    "text": "In 2010, Drew Conway gave us this - our somewhat reductionist definition of a data unicorn\n\nThe OG Data Science Cheat Sheet\nAh, simpler times: when unicorns roamed free and data practitioners were mythical creatures"
+  },
+  {
+    "objectID": "index.html#analyzing-the-analyzers-2012-2013",
+    "href": "index.html#analyzing-the-analyzers-2012-2013",
+    "title": "What Makes for an Effective Data Practitioner in 2024",
+    "section": "Analyzing the Analyzers, 2012-2013",
+    "text": "Analyzing the Analyzers, 2012-2013"
+  },
+  {
+    "objectID": "index.html#skills-distilled-from-our-survey",
+    "href": "index.html#skills-distilled-from-our-survey",
+    "title": "What Makes for an Effective Data Practitioner in 2024",
+    "section": "Skills distilled from our survey",
+    "text": "Skills distilled from our survey\n\nAlgorithms (ex: computational complexity, CS theory)\nBack-End Programming (ex: JAVA/Rails/Objective C)\nBayesian/Monte-Carlo Statistics (ex: MCMC, BUGS)\nBig and Distributed Data (ex: Hadoop, Map/Reduce)\nBusiness (ex: management, business development, budgeting)\nClassical Statistics (ex: general linear model, ANOVA)\nData Manipulation (ex: regexes, R, SAS, web scraping)\nFront-End Programming (ex: JavaScript, HTML, CSS)\nGraphical Models (ex: social networks, Bayes networks)\nMachine Learning (ex: decision trees, neural nets, SVM, clustering)\nMath (ex: linear algebra, real analysis, calculus)\nOptimization (ex: linear, integer, convex, global)\nProduct Development (ex: design, project management)\nScience (ex: experimental design, technical writing/publishing)\nSimulation (ex: discrete, agent-based, continuous)\nSpatial Statistics (ex: geographic covariates, GIS)\nStructured Data (ex: SQL, JSON, XML)\nSurveys and Marketing (ex: multinomial modeling)\nSystems Administration (ex: *nix, DBA, cloud tech.)\nTemporal Statistics (ex: forecasting, time-series analysis)\nUnstructured Data (ex: noSQL, text mining)\nVisualization (ex: statistical graphics, mapping, web-based dataviz)\n\n:::\n::::"
+  },
+  {
+    "objectID": "index.html#evolution-of-data-science",
+    "href": "index.html#evolution-of-data-science",
+    "title": "What Makes for an Effective Data Practitioner in 2024",
+    "section": "Evolution of Data Science",
+    "text": "Evolution of Data Science\ntimeline graphic (to-be-created)"
+  },
+  {
+    "objectID": "index.html#in-2024-the-hard-truth-an-overloaded-definition-and-set-of-expectations-leading-to-the-data-practitioner-soup",
+    "href": "index.html#in-2024-the-hard-truth-an-overloaded-definition-and-set-of-expectations-leading-to-the-data-practitioner-soup",
+    "title": "What Makes for an Effective Data Practitioner in 2024",
+    "section": "In 2024, the hard truth: an overloaded definition and set of expectations leading to the Data Practitioner Soup",
+    "text": "In 2024, the hard truth: an overloaded definition and set of expectations leading to the Data Practitioner Soup\n\n\n\nSQL, Python, and a dash or dark magic\n\n\n\n\nDALL·E 3 prompt: An ethnically and gender diverse group of at least eight sorcerers standing around a large cauldron labeled “Data Science” acting as if they are throwing stuff in. The cauldron must be visible. The liquid in the cauldron is bubbling and smoke is rising. The smoke cloud is translucid and there it’s just plain"
+  },
+  {
+    "objectID": "index.html#how-it-started-how-its-going",
+    "href": "index.html#how-it-started-how-its-going",
+    "title": "What Makes for an Effective Data Practitioner in 2024",
+    "section": "How it started, how it’s going",
+    "text": "How it started, how it’s going\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDALL·E 3 prompt: a developer with eight arms, each typing on a separate macbook laptop where the screen is showing matrix like green text"
+  },
+  {
+    "objectID": "index.html#the-complexities-of-defining-data-science",
+    "href": "index.html#the-complexities-of-defining-data-science",
+    "title": "What Makes for an Effective Data Practitioner in 2024",
+    "section": "The complexities of defining data science",
+    "text": "The complexities of defining data science\n(expand on this)\n\nscience\nresearch paradigm\nresearch method\ndiscipline\nworkflow\nprofession"
+  },
+  {
+    "objectID": "index.html#mastering-the-broadness-is-extremely-difficult-and-needs-time",
+    "href": "index.html#mastering-the-broadness-is-extremely-difficult-and-needs-time",
+    "title": "What Makes for an Effective Data Practitioner in 2024",
+    "section": "Mastering the broadness is extremely difficult and needs time",
+    "text": "Mastering the broadness is extremely difficult and needs time"
+  },
+  {
+    "objectID": "index.html#and-teaching-is-even-harder",
+    "href": "index.html#and-teaching-is-even-harder",
+    "title": "What Makes for an Effective Data Practitioner in 2024",
+    "section": "And teaching is even harder!",
+    "text": "And teaching is even harder!\nTeaching stories"
+  },
+  {
+    "objectID": "index.html#build-a-tool-to-help-process-all-this-information",
+    "href": "index.html#build-a-tool-to-help-process-all-this-information",
+    "title": "What Makes for an Effective Data Practitioner in 2024",
+    "section": "Build a tool to help process all this information",
+    "text": "Build a tool to help process all this information\nBuild a RAG"
+  },
+  {
+    "objectID": "index.html#academic-models-of-skills-and-competencies-for-data-science",
+    "href": "index.html#academic-models-of-skills-and-competencies-for-data-science",
+    "title": "What Makes for an Effective Data Practitioner in 2024",
+    "section": "Academic models of skills and competencies for Data Science",
+    "text": "Academic models of skills and competencies for Data Science\n\nedison\niadss"
+  },
+  {
+    "objectID": "index.html#we-need-to-be-careful-though",
+    "href": "index.html#we-need-to-be-careful-though",
+    "title": "What Makes for an Effective Data Practitioner in 2024",
+    "section": "We need to be careful, though",
+    "text": "We need to be careful, though"
+  },
+  {
+    "objectID": "index.html#propsed-model",
+    "href": "index.html#propsed-model",
+    "title": "What Makes for an Effective Data Practitioner in 2024",
+    "section": "Propsed model",
+    "text": "Propsed model\nscaffolding graphic"
+  },
+  {
+    "objectID": "index.html#skills-continuuum-slide-1",
+    "href": "index.html#skills-continuuum-slide-1",
+    "title": "What Makes for an Effective Data Practitioner in 2024",
+    "section": "Skills continuuum slide 1",
+    "text": "Skills continuuum slide 1\nstill in development"
+  },
+  {
+    "objectID": "index.html#skills-continuuum-slide-2",
+    "href": "index.html#skills-continuuum-slide-2",
+    "title": "What Makes for an Effective Data Practitioner in 2024",
+    "section": "Skills continuuum slide 2",
+    "text": "Skills continuuum slide 2\nstill in development"
+  },
+  {
+    "objectID": "index.html#skills-continuuum-slide-3",
+    "href": "index.html#skills-continuuum-slide-3",
+    "title": "What Makes for an Effective Data Practitioner in 2024",
+    "section": "Skills continuuum slide 3",
+    "text": "Skills continuuum slide 3\nstill in development"
+  },
+  {
+    "objectID": "index.html#skills-continuuum-slide-4",
+    "href": "index.html#skills-continuuum-slide-4",
+    "title": "What Makes for an Effective Data Practitioner in 2024",
+    "section": "Skills continuuum slide 4",
+    "text": "Skills continuuum slide 4\nstill in development"
+  },
+  {
+    "objectID": "index.html#skills-continuuum-slide-5",
+    "href": "index.html#skills-continuuum-slide-5",
+    "title": "What Makes for an Effective Data Practitioner in 2024",
+    "section": "Skills continuuum slide 5",
+    "text": "Skills continuuum slide 5\nstill in development"
+  },
+  {
+    "objectID": "index.html#skills-continuuum-slide-6",
+    "href": "index.html#skills-continuuum-slide-6",
+    "title": "What Makes for an Effective Data Practitioner in 2024",
+    "section": "Skills continuuum slide 6",
+    "text": "Skills continuuum slide 6\nstill in development"
+  },
+  {
+    "objectID": "index.html#call-to-action",
+    "href": "index.html#call-to-action",
+    "title": "What Makes for an Effective Data Practitioner in 2024",
+    "section": "Call to action",
+    "text": "Call to action"
+  },
+  {
+    "objectID": "index.html#what-are-you-going-to-do-to-help-fix-this",
+    "href": "index.html#what-are-you-going-to-do-to-help-fix-this",
+    "title": "What Makes for an Effective Data Practitioner in 2024",
+    "section": "What are you going to do to help fix this?",
+    "text": "What are you going to do to help fix this?"
+  }
+]
