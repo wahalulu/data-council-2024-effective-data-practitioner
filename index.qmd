@@ -132,7 +132,23 @@ timeline graphic (to-be-created)
 - _workflow_
 - _profession_ 
 
+
+::: {.notes}
+
+:::
+
+
 ## Mastering the broadness is extremely difficult and needs time
+
+
+
+
+::: {.notes}
+
+:::
+
+
+
 
 ## And teaching is even harder!
 
