@@ -11,14 +11,14 @@
     "href": "index.html#analyzing-the-analyzers-2012-2013",
     "title": "What Makes for an Effective Data Practitioner in 2024",
     "section": "Analyzing the Analyzers, 2012-2013",
-    "text": "Analyzing the Analyzers, 2012-2013"
+    "text": "Analyzing the Analyzers, 2012-2013\n\n\n\n\n\n\n\n\n\n\n\nAh, simpler times: when unicorns roamed free and data practitioners were mythical creatures"
   },
   {
     "objectID": "index.html#skills-distilled-from-our-survey",
     "href": "index.html#skills-distilled-from-our-survey",
     "title": "What Makes for an Effective Data Practitioner in 2024",
     "section": "Skills distilled from our survey",
-    "text": "Skills distilled from our survey\n\nAlgorithms (ex: computational complexity, CS theory)\nBack-End Programming (ex: JAVA/Rails/Objective C)\nBayesian/Monte-Carlo Statistics (ex: MCMC, BUGS)\nBig and Distributed Data (ex: Hadoop, Map/Reduce)\nBusiness (ex: management, business development, budgeting)\nClassical Statistics (ex: general linear model, ANOVA)\nData Manipulation (ex: regexes, R, SAS, web scraping)\nFront-End Programming (ex: JavaScript, HTML, CSS)\nGraphical Models (ex: social networks, Bayes networks)\nMachine Learning (ex: decision trees, neural nets, SVM, clustering)\nMath (ex: linear algebra, real analysis, calculus)\nOptimization (ex: linear, integer, convex, global)\nProduct Development (ex: design, project management)\nScience (ex: experimental design, technical writing/publishing)\nSimulation (ex: discrete, agent-based, continuous)\nSpatial Statistics (ex: geographic covariates, GIS)\nStructured Data (ex: SQL, JSON, XML)\nSurveys and Marketing (ex: multinomial modeling)\nSystems Administration (ex: *nix, DBA, cloud tech.)\nTemporal Statistics (ex: forecasting, time-series analysis)\nUnstructured Data (ex: noSQL, text mining)\nVisualization (ex: statistical graphics, mapping, web-based dataviz)\n\n:::\n::::"
+    "text": "Skills distilled from our survey\n\nAlgorithms (ex: computational complexity, CS theory)\nBack-End Programming (ex: JAVA/Rails/Objective C)\nBayesian/Monte-Carlo Statistics (ex: MCMC, BUGS)\nBig and Distributed Data (ex: Hadoop, Map/Reduce)\nBusiness (ex: management, business development, budgeting)\nClassical Statistics (ex: general linear model, ANOVA)\nData Manipulation (ex: regexes, R, SAS, web scraping)\nFront-End Programming (ex: JavaScript, HTML, CSS)\nGraphical Models (ex: social networks, Bayes networks)\nMachine Learning (ex: decision trees, neural nets, SVM, clustering)\nMath (ex: linear algebra, real analysis, calculus)\nOptimization (ex: linear, integer, convex, global)\nProduct Development (ex: design, project management)\nScience (ex: experimental design, technical writing/publishing)\nSimulation (ex: discrete, agent-based, continuous)\nSpatial Statistics (ex: geographic covariates, GIS)\nStructured Data (ex: SQL, JSON, XML)\nSurveys and Marketing (ex: multinomial modeling)\nSystems Administration (ex: *nix, DBA, cloud tech.)\nTemporal Statistics (ex: forecasting, time-series analysis)\nUnstructured Data (ex: noSQL, text mining)\nVisualization (ex: statistical graphics, mapping, web-based dataviz)"
   },
   {
     "objectID": "index.html#evolution-of-data-science",
@@ -32,7 +32,7 @@
     "href": "index.html#in-2024-the-hard-truth-an-overloaded-definition-and-set-of-expectations-leading-to-the-data-practitioner-soup",
     "title": "What Makes for an Effective Data Practitioner in 2024",
     "section": "In 2024, the hard truth: an overloaded definition and set of expectations leading to the Data Practitioner Soup",
-    "text": "In 2024, the hard truth: an overloaded definition and set of expectations leading to the Data Practitioner Soup\n\n\n\nSQL, Python, and a dash or dark magic\n\n\n\n\nDALL·E 3 prompt: An ethnically and gender diverse group of at least eight sorcerers standing around a large cauldron labeled “Data Science” acting as if they are throwing stuff in. The cauldron must be visible. The liquid in the cauldron is bubbling and smoke is rising. The smoke cloud is translucid and there it’s just plain"
+    "text": "In 2024, the hard truth: an overloaded definition and set of expectations leading to the Data Practitioner Soup\n\n\n\nSQL, Python, and a dash or dark magic\n\n\n\n\n\n\n\nDALL·E 3 prompt: An ethnically and gender diverse group of at least eight sorcerers standing around a large cauldron labeled “Data Science” acting as if they are throwing stuff in. The cauldron must be visible. The liquid in the cauldron is bubbling and smoke is rising. The smoke cloud is translucid and there it’s just plain"
   },
   {
     "objectID": "index.html#how-it-started-how-its-going",
