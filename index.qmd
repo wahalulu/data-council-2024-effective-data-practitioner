@@ -1,10 +1,11 @@
 ---
 title: "What Makes for an Effective Data Practitioner in 2024"
-author: "Marck Vaisman"
+author: "Marck Vaisman<br/>Senior Technical Specialist, Microsoft<br/>Adjunct Professor, Data Science, Georgetown University"
 date: "March 26, 2024"
 format: 
   revealjs:
-    css: [custom.css, timeline.css]
+    theme: [clean.scss]
+    css: [timeline.css]
     width: 1600
     height: 900
     pdf-separate-fragments: true
@@ -17,162 +18,112 @@ bibliography: references.bib
 ---
 
 
-# Main Idea \# 1: This shit is hard
+## In 2010, Drew Conway gave us this - our somewhat _reductionist_ definition of a data unicorn
 
-# Main Idea \# 2: Teaching this shit is even harder
+![The OG Data Science Cheat Sheet](img/conway-original.png){fig-align="center"}
 
-# Main Idea \# 3: Mastering each data sub-discipline takes years to master
 
-# Main Idea \# 4: Unicorns don't exist (even though many want them to)
+::: {.notes}
+Ah, simpler times: when unicorns roamed free and data practitioners were mythical creatures
+:::
 
-# We really need to do something as a community
+## [Analyzing the Analyzers, 2012-2013](https://www.oreilly.com/content/analyzing-the-analyzers/)
 
-# Main Idea \# 4: Data Science is a Team Ac
+::: {layout-ncol="2"}
 
-## Why am I talking about this?
-- I want to be able to prepa
+![](img/atan_cover.jpg)
 
-:::{.notes}
-these are speaker notes
+![](img/atan_personas.png)
+
 :::
 
 
-## 
+::: {.notes}
+Ah, simpler times: when unicorns roamed free and data practitioners were mythical creatures
+:::
 
-Hi!
 
-## In 2010...
+## Skills distilled from our survey
 
-<!-- comment -->
 
+- Algorithms (ex: computational complexity, CS theory)
+- Back-End Programming (ex: JAVA/Rails/Objective C)
+- Bayesian/Monte-Carlo Statistics (ex: MCMC, BUGS)
+- Big and Distributed Data (ex: Hadoop, Map/Reduce)
+- Business (ex: management, business development, budgeting)
+- Classical Statistics (ex: general linear model, ANOVA)
+- Data Manipulation (ex: regexes, R, SAS, web scraping)
+- Front-End Programming (ex: JavaScript, HTML, CSS)
+- Graphical Models (ex: social networks, Bayes networks)
+- Machine Learning (ex: decision trees, neural nets, SVM, clustering)
+- Math (ex: linear algebra, real analysis, calculus)
+- Optimization (ex: linear, integer, convex, global)
+- Product Development (ex: design, project management)
+- Science (ex: experimental design, technical writing/publishing)
+- Simulation (ex: discrete, agent-based, continuous)
+- Spatial Statistics (ex: geographic covariates, GIS)
+- Structured Data (ex: SQL, JSON, XML)
+- Surveys and Marketing (ex: multinomial modeling)
+- Systems Administration (ex: *nix, DBA, cloud tech.)
+- Temporal Statistics (ex: forecasting, time-series analysis)
+- Unstructured Data (ex: noSQL, text mining)
+- Visualization (ex: statistical graphics, mapping, web-based dataviz)
 
-![](img/conway-original.png){fig-align="center"}
 
 
-## Why
 
-<!-- comment -->
 
+## Evolution of Data Science
 
-![](img/cranston.jpeg){fig-align="center"}
+timeline graphic (to-be-created)
 
-## AI Engineer
 
-<!-- comment -->
+## In 2024, the hard truth: an _overloaded_ definition and set of expectations leading to the _Data Practitioner Soup_
 
 
-![](img/aienginner-interview-job.jpeg){fig-align="center"}
+![SQL, Python, and a dash or dark magic](img/data-science-cauldron.png){fig-align="center" height="700" text-align="center"}
 
-# Analyzing the Analyzers
 
+::: aside
+`DALL·E 3 prompt:` An ethnically and gender diverse group of at least eight sorcerers standing around a large cauldron labeled "Data Science" acting as if they are throwing stuff in. The cauldron must be visible. The liquid in the cauldron is bubbling and smoke is rising. The smoke cloud is translucid and there it's just plain
+:::
 
-## Our work has been cited many times
+::: {.notes}
 
-<!-- comment -->
+:::
 
 
-![](img/atan-citationgs.png){fig-align="center"}
 
-## 
+## How it started, how it's going
 
-![](img/atan_03in01.png){fig-align="center"}
+:::: {.columns}
 
-## 
+::: {.column}
+::: {layout-nrow="2"}
 
-![](img/atan_03in02.png){fig-align="center"}
+![](img/josh-wills.png)
 
-## 
+![](img/data-scientist-definitions.png)
 
-![](img/atan_03in04.png){fig-align="center"}
+:::
+:::
 
-## 
+::: {.column}
 
-![](img/atan_04in01.png){fig-align="center"}
+![](img/octopus-with-terms.png){height="700"}
 
-## 
+:::
+::::
 
-![](img/atan_04in02.png){fig-align="center"}
-
-## 
-
-![](img/atan_mosaic.png){fig-align="center"}
-
-## 
-
-![](img/cranston-heading.jpg){fig-align="center"}
-
-## 
-
-![](img/cranston.jpeg){fig-align="center"}
-
-## 
-
-![](img/data-scientist-definitions.png){fig-align="center"}
-
-## 
-
-![](img/dataiku-types-of-data-scientists.webp){fig-align="center"}
-
-## 
-
-![](img/gallego-competence-skill-knowledge-education.png){fig-align="center"}
-
-## 
-
-<!-- comment -->
-
-<!-- joke -->
-
-![](img/genai-interview-job.jpeg){fig-align="center"}
-
-
-
-
-
-## 
-
-![](img/josh-wills.png){fig-align="center"}
-
-## 
-
-![](img/szerovay-dataliteracy.webp){fig-align="center"}
-
-
-##
-
-# Teaching
-
-
-
-
-
-## We missed something along the way...
-
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNpZjgxdnlrd25xbTdjc3dxbzQxMXkzaG02amNqM255YjhoeTR0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B88DHpHV7Wd0c/giphy.gif)
-
-
-
-# Skills and Competencies
-
-
-# Mental model
-
-
-
-
-
-# Call to action
-
-
-
-# Orit Hazzan
-
-## 
-
-![](img/hazzan-data-science-and-data-thinking.png){fig-align="center"}
+::: aside
+`DALL·E 3 prompt:` a developer with eight arms, each typing on a separate macbook laptop where the screen is showing matrix like green text
+:::
 
 
 ## The complexities of defining data science
+
+(expand on this)
+
 
 - _science_
 - _research paradigm_
@@ -181,74 +132,63 @@ Hi!
 - _workflow_
 - _profession_ 
 
-## Takes a lifetime to master
+## Mastering the broadness is extremely difficult and needs time
 
-## Teaching big data
+## And teaching is even harder!
 
-## 
+Teaching stories
 
-
-
-
-
-## Baseline fundamental skillset
-
-
-
-## Warning: buzzword overload
-
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzI1cnAxb3NqZnk1ejN6Z3RicmtoNWRldTNoeWY4ZjUxYTNlZGxwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qs6ev2pm8g9dS/giphy.gif)
-
+# WWDSD?
 
 ## 
 
-![]
+## Build a tool to help process all this information
+Build a RAG
+
+## Academic models of skills and competencies for Data Science
+
+- edison
+- iadss
+
+## We need to be careful, though
+
+![](img/standards.png){fig-align="center"}
+
+## Propsed model
+
+scaffolding graphic
+
+## Skills continuuum slide 1
+
+still in development
+
+## Skills continuuum slide 2
+
+still in development
+
+## Skills continuuum slide 3
+
+still in development
+
+## Skills continuuum slide 4
+
+still in development
+
+## Skills continuuum slide 5
+
+still in development
+
+## Skills continuuum slide 6
+
+still in development
+
+## Call to action
 
 
-## words representing skills associated with data science
+
+
+## What are *you* going to do to help fix this?
 
 
 
-## WTF are we doing?
 
-The explosive growth in data science has led to confusion about the definitions of related tools, skills, and roles. Data scientists vary widely in expertise, from machine learning to data infrastructure. The lack of clarity extends to skill levels and qualifications for job titles. Employers struggle to define the role, leading to costs, while employees face challenges in finding suitable positions.
-
-
-||||
-|-|-|-|
-| Data Scientist _Generalist_ | Business Analyst | Database Architect |
-| Data Scientist _Machine Learning_ | Data and Analytics Manager | Business Intelligence Analyst |
-| Data Scientist _Artificial Intelligence_ | Marketing Data Analyst | Quantitative Analyst |
-| Data Analyst | Reports and Data Analyst | Computer and Information Research Scientist |
-| Data Architect | Operations Analytics Manager | Data Expert |
-| Data Engineer | Data and Analytics Solution Lead | Data Research Scientist |
-| AI Engineer | Big Data Developer/Engineer | Chief Data Officers |
-| Machine Learning Engineer | Database Administrator | Chief Analytics Officer |
-
-::: {aside}
-[@hamutcu_toward_2020]
-:::
-
-
-## There are many frameworks for skills and competencies
-
-- The EDISON project
-- 
-
-
-## I'm not the only one thinking about this
-
-##
-
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2V3NWJycnh6NXpxZzdhYW1pN2NnNGxiMm5uZGhuMWoxbnNzZHdybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cGqQr1GT4VFASrJaly/giphy-downsized-large.gif)
-
-
-## References
-
-::: {#refs}
-:::
-
-
-## What do I want?
-
-- I want to be able to prepa
