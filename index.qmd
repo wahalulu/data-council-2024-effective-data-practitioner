@@ -299,9 +299,9 @@ In summary, while skills are specific to certain tasks, competencies are more co
 
 ::::
 
-## Thinking models
+## Thinking models {.smaller}
 
-::: {layout-ncol="5"}
+::: {layout="[[1,1], [1,1,1]]"}
 
 ### Computational
 - **Cognitive Ability**: It is a problem-solving process that involves designing solutions to be implemented by a person, a computer, or both.
@@ -340,6 +340,8 @@ In summary, while skills are specific to certain tasks, competencies are more co
 ## Proposed skills model
 
 ![](img/model.png){fig-align="center" height="650"}
+
+[@weiser_65_2022; @hamutcu_toward_2020; @fayyad_unicorn_2022; @hazzan_guide_2023; @adhikari_interleaving_2021; @cuadrado-gallego_data_2023]
 
 ## Call to action
 
