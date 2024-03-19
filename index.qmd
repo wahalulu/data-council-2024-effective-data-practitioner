@@ -1,11 +1,9 @@
 ---
 title: "What Makes for an Effective Data Practitioner in 2024"
-author: "Marck Vaisman<br/>Senior Technical Specialist, Microsoft<br/>Adjunct Professor, Data Science, Georgetown University"
-date: "March 26, 2024"
+author: "<br/>Marck Vaisman<br/><br/>Senior Technical Specialist, Microsoft<br/>`marck.vaisman@microsoft.com`<br/><br/>Adjunct Professor, Data Science, Georgetown University<br/>`marck.vaisman@georgetown.edu`"
 format: 
   revealjs:
     theme: [clean.scss]
-    css: [timeline.css]
     width: 1600
     height: 900
     pdf-separate-fragments: true
@@ -17,6 +15,13 @@ format:
 bibliography: references.bib
 ---
 
+# These are my _personal opinions_ and do not represent any organization
+
+# Inspiration
+
+::: {.notes}
+
+:::
 
 ## In 2010, Drew Conway gave us this - our somewhat _reductionist_ definition of a data unicorn
 
@@ -31,21 +36,31 @@ Ah, simpler times: when unicorns roamed free and data practitioners were mythica
 
 ::: {layout-ncol="2"}
 
-![](img/atan_cover.jpg)
+![](img/atan_cover.jpg){height="650"}
 
-![](img/atan_personas.png)
+![](img/atan_personas.png){height="650"}
 
 :::
 
+[@harris_analyzing_2013]
 
 ::: {.notes}
-Ah, simpler times: when unicorns roamed free and data practitioners were mythical creatures
+- **Data Businesspeople:** These are data scientists who are especially adept at understanding the business context around their data work. They have strong business acumen and are often involved in decision-making processes. They are likely to be involved in generating actionable insights that can influence business strategies.
+
+- **Data Creatives:** Considered as the broadest of the data scientist clusters, Data Creatives are characterized by their strong ability to tackle new problems with innovative solutions. They have a rich skill set that can adapt to various challenges and are often the ones to come up with novel approaches to data analysis.
+
+- **Data Developers:** These individuals are focused on the technical problem-solving aspects of data science. They have strong skills in software engineering and are often responsible for building the infrastructure required for data analysis such as databases, pipelines, and data processing systems.
+
+- **Data Researchers:** Originating from academic or research backgrounds, Data Researchers bring a deep understanding of statistics and mathematics to their data science work. They are likely to be involved in developing new algorithms and statistical models.
+
 :::
 
 
-## Skills distilled from our survey
+## Skills distilled from our survey (in alphabetical order)
 
+::: {layout-ncol="2"}
 
+###
 - Algorithms (ex: computational complexity, CS theory)
 - Back-End Programming (ex: JAVA/Rails/Objective C)
 - Bayesian/Monte-Carlo Statistics (ex: MCMC, BUGS)
@@ -57,6 +72,8 @@ Ah, simpler times: when unicorns roamed free and data practitioners were mythica
 - Graphical Models (ex: social networks, Bayes networks)
 - Machine Learning (ex: decision trees, neural nets, SVM, clustering)
 - Math (ex: linear algebra, real analysis, calculus)
+
+###
 - Optimization (ex: linear, integer, convex, global)
 - Product Development (ex: design, project management)
 - Science (ex: experimental design, technical writing/publishing)
@@ -69,19 +86,17 @@ Ah, simpler times: when unicorns roamed free and data practitioners were mythica
 - Unstructured Data (ex: noSQL, text mining)
 - Visualization (ex: statistical graphics, mapping, web-based dataviz)
 
+:::
 
+## Evolution of Data Science and in-demand skills
 
-
-
-## Evolution of Data Science
-
-timeline graphic (to-be-created)
+![](img/ds-evolution.svg){fig-align="center"}
 
 
 ## In 2024, the hard truth: an _overloaded_ definition and set of expectations leading to the _Data Practitioner Soup_
 
 
-![SQL, Python, and a dash or dark magic](img/data-science-cauldron.png){fig-align="center" height="700" text-align="center"}
+![SQL, Python, and a dash or dark magic](img/data-science-cauldron.png){fig-align="center" height="650" text-align="center"}
 
 
 ::: aside
@@ -99,6 +114,8 @@ timeline graphic (to-be-created)
 :::: {.columns}
 
 ::: {.column}
+::: {.fragment}
+### ~2012
 ::: {layout-nrow="2"}
 
 ![](img/josh-wills.png)
@@ -107,11 +124,16 @@ timeline graphic (to-be-created)
 
 :::
 :::
+:::
 
 ::: {.column}
+::: {.fragment}
 
-![](img/octopus-with-terms.png){height="700"}
+### 2024
 
+![](img/octopus-with-terms.png){height="650"}
+
+:::
 :::
 ::::
 
@@ -119,19 +141,38 @@ timeline graphic (to-be-created)
 `DALL·E 3 prompt:` a developer with eight arms, each typing on a separate macbook laptop where the screen is showing matrix like green text
 :::
 
+## Expectations vs. Reality
 
-## The complexities of defining data science
+::: {layout-ncol="2"}
 
-(expand on this)
+::: {.fragment}
+![](img/aienginner-interview-job.jpeg)
+:::
+
+::: {.fragment}
+![](img/genai-interview-job.jpeg)
+:::
+
+:::
 
 
-- _science_
-- _research paradigm_
-- _research method_
-- _discipline_
-- _workflow_
-- _profession_ 
+## The complexities of defining data science (and I have no intention of doing so)
 
+Data Science can be considered a:
+
+- **Science**: Data science is viewed as a continuation of empirical science, which has always been centered around data, with historical examples like Kepler's use of data to prove Copernicus' theory.  
+   
+- **Research Paradigm**: It represents a shift in research methodology, moving from a deductive approach to a more inductive approach due to the abundance of data and computational resources.  
+   
+- **Research Method**: Data science is used to discover new concepts, measure their prevalence, assess causal effects, and make predictions, transforming the research process.  
+   
+- **Discipline**: The field is inherently interdisciplinary, integrating knowledge from domains such as computer science, mathematics, statistics, and specific application domains.  
+   
+- **Workflow**: It involves a series of steps including data collection, exploratory data analysis, modeling, and communication of results.  
+   
+- **Profession**: The multifaceted nature of data science work includes aspects of science, engineering, mathematics, statistics, and domain expertise, making it a distinct professional field.  
+   
+[@hazzan_guide_2023]
 
 ::: {.notes}
 
@@ -152,59 +193,209 @@ timeline graphic (to-be-created)
 
 ## And teaching is even harder!
 
-Teaching stories
+:::: {.columns}
 
-# WWDSD?
+::: {.column}
 
-## 
+![](img/lecture-command-line.png){height="650"}
 
-## Build a tool to help process all this information
-Build a RAG
+:::
 
-## Academic models of skills and competencies for Data Science
+::: {.column .r-fit-text}
 
-- edison
-- iadss
+- Broad Discipline
+- Complex Topics
+- Variety of Thinking Skills
+- Special Professional and Organizational Skills
+- Educators' Background
+
+[@hazzan_guide_2023]
+:::
+
+::::
+
+::: aside
+`DALL·E 3 prompt:` a lecturer asking a group of ethnically and gender diverse students working on laptops to "open the command line" and getting scary and puzzled looks from students
+:::
+
+::: {.notes}
+- Broad Discipline: Data science encompasses a very broad discipline with a large body of knowledge, making it difficult to cover all necessary topics comprehensively 1 .
+- Complex Topics: It contains complex topics such as machine learning algorithms, which require a deep understanding of mathematics and theoretical concepts 1 .
+- Variety of Thinking Skills: Data science education requires a variety of thinking skills, including interdisciplinary thinking, computational thinking, and statistical thinking 1 .
+- Special Professional and Organizational Skills: Beyond technical skills, data science also requires special professional skills such as teamwork, storytelling, and ethical behavior 1 .
+- Educators' Background: Many data science educators may not be data science majors themselves but may come from one of the disciplines that intersect to create data science, such as mathematics, statistics, computer science, or a specific application domain 1 .
+:::
+
+
+
+
+## WWDSD?
+
+::: {.fragment}
+What would a Data Scientist do?
+
+![](img/brain-meme.jpg)
+:::
+
+::: {.notes}
+
+:::
+
+
+## The work we did in 2013 has over 146 citations over the last 10 years
+
+![](img/atan-citationgs.png){fig-align="center"}
+
+::: {.notes}
+Started looking thgough the publications that referenced us and 
+:::
+
+
+## Prior work on academic models for skills and competencies for Data Science {.r-fit-text}
+
+1. **EDISON Data Science Framework (EDSF)**: This framework includes a Competency Framework for Data Science (CF-DS) and a defined body of knowledge (DS-BoK). The CF-DS is developed around five major knowledge area groups: Data Analytics, Data Science Engineering, Data Management, Research Methods and Project Management, and Domain Related Competencies and Business Analytics Competencies. These areas define the explicit skills and knowledge that exemplify competence in data science.  
+   
+2. **AIS IS 2010 Curriculum Guidelines**: This curriculum is designed to educate and prepare graduates to enter the workforce by equipping them with knowledge and skills in three categories: IS-specific knowledge and skills, foundational knowledge and skills, and domain fundamentals. The "IS 2010" report is a collaborative effort between the Association for Computing Machinery (ACM) and the Association for Information Systems (AIS).  
+   
+3. **Business Higher Education Forum (BHEF) Data Science and Analytics Competency Map**: This map lists Data Science concepts and principles tiered into when and where these concepts are learned.  
+   
+4. **ACM and IDASS Competencies**: These documents provide a high-level list of competencies that undergraduate Data Science students should learn, with competencies directly comparable to EDISON’s CF-DS.  
+   
+5. **Park City Math Institute Curriculum Guidelines for Undergraduate Programs in Data Science**: This guideline does not elaborate on how to integrate the application domains knowledge into the curriculum but recognizes the importance of domain-related knowledge for practical work of a Data Scientist.  
+   
+
+[@schmitt_evaluation_2023; @weiser_65_2022; @hazzan_guide_2023]
+
+
+
 
 ## We need to be careful, though
 
 ![](img/standards.png){fig-align="center"}
 
-## Propsed model
+::: {.notes}
+we need a collective standard not one more, but using this as a framework for presenting skills
+:::
 
-scaffolding graphic
+## Skills and Competencies
 
-## Skills continuuum slide 1
+:::: {.columns}
+::: {.column}
 
-still in development
+The difference between a skill and a competency is often related to the scope and integration of knowledge, abilities, and behaviors. A skill is typically understood as a specific learned activity that can be performed, often something that can be developed through practice. Competencies, on the other hand, are broader and include a combination of skills, knowledge, and attributes that enable someone to perform effectively in a job or situation  ^1^ .  
+   
+Competencies are often described as more holistic, encompassing not just the ability to perform a task (skill) but also the understanding (knowledge) and the appropriate application (attributes) of that skill in various contexts. They reflect a person's capability to apply or use a set of related knowledge, skills, and abilities required to successfully perform "critical work functions" or tasks in a defined work setting  ^1^ .  
+   
+In summary, while skills are specific to certain tasks, competencies are more comprehensive and relate to the overall ability to perform a job effectively, which includes a combination of multiple skills, the knowledge of when and how to use them, and the attitude or behavior to perform them successfully  ^1^ .
 
-## Skills continuuum slide 2
+[@weiser_65_2022]
+:::
 
-still in development
+::: {.column}
 
-## Skills continuuum slide 3
+![](img/cuadrado-gallego-2020-fig-2-5.png)
 
-still in development
+:::
 
-## Skills continuuum slide 4
+::::
 
-still in development
+## Thinking models
 
-## Skills continuuum slide 5
+::: {layout-ncol="5"}
 
-still in development
+### Computational
+- **Cognitive Ability**: It is a problem-solving process that involves designing solutions to be implemented by a person, a computer, or both.
+- **Independent of Technology**: Its implementation is not dependent on technology.  
+- **Key Skills and Processes**: These include problem formulation, dividing a problem into sub-problems, organizing and logically analyzing data, representing data with models and simulations using abstraction, suggesting and assessing solutions, examining and implementing the chosen solution, and generalizing the solution to a range of problems.  
+- **Social Skills**: Teamwork, time management, and planning and scheduling tasks are also part of computational thinking.  
+- **Broad Knowledge**: Emphasizes the acquisition of multidisciplinary knowledge and skills that can be applied in various contexts.  
+   
+### Statistical
+- **Understanding of Data**: Involves an understanding of the essence, characteristics, and variability of real-life data.  
+- **Statistical Inquiry**: Covers the entire process of statistical inquiry, from data collection to analysis and interpretation.  
+- **Use of Statistical Methods**: Addresses when and how to use specific statistical data analysis methods.  
+- **Sampling and Inference**: Refers to the nature of sampling and how to infer from samples to populations.  
+- **Statistical Models**: Includes the use of statistical models and their application.  
+- **Contextual Analysis**: Considers the context of a given problem when performing investigations and drawing conclusions.  
+   
+### Mathematical
+ - **Mathematical Foundations**: A core competence for data science graduates, involving a deep understanding of mathematical principles.  
+ - **Model Building and Assessment**: Skills in constructing and evaluating mathematical models relevant to data science.  
+   
+### Application Domain
+ - **Domain-Specific Knowledge**: Understanding the core principles and ethical considerations within a specific application domain.  
+ - **Data Curation**: Involves managing and organizing data relevant to the domain.  
+ - **Knowledge Transference**: Communication and responsibility in transferring domain-specific insights.  
+   
+### Data
+ - **Analytical Thinking**: Combines computational and statistical thinking to analyze data effectively.  
+ - **Algorithms and Software Foundation**: Knowledge of algorithms and software relevant to data science.  
+ - **Data Curation Skills**: Involves the ability to curate and manage data efficiently.  
+ - **Communication and Responsibility**: Skills in communicating findings and understanding the implications of data analysis.  
 
-## Skills continuuum slide 6
+:::
 
-still in development
+[@hazzan_guide_2023; @adhikari_interleaving_2021]
+
+## Proposed skills model
+
+![](img/model.png){fig-align="center" height="650"}
 
 ## Call to action
 
+What are *you* going to do to help fix this?
+   
+1. **Standardize Roles**: Adopt a simplified and anchor categorization of job roles with clear definitions and expectations to reduce confusion and align understanding across the industry.  
+   
+2. **Utilize Frameworks**: Refer to established frameworks such as the IADSS Data Science Knowledge Framework to converge on the body of knowledge specification and ensure consistency in role definitions.  
+   
+3. **Skills-Based Assessment**: Implement objective, skills-based assessments to standardize the evaluation of data science professionals and ensure alignment with role requirements.  
+   
+4. **Industry-Specific Classifications**: Extend the work to include industry-specific role classifications that cater to the unique needs and contexts of different sectors.  
+   
+5. **Benchmarking and Comparison**: Compare and contrast standardized role definitions with actual industry practices, such as analyzing LinkedIn job posts, to ensure relevance and applicability.  
+   
+6. **Communication and Education**: Communicate the process and expectations clearly to all stakeholders, including hiring managers, executives, educators, and aspiring data science professionals, to align expectations.  
+   
+7. **Continuous Evolution**: Recognize that the field is dynamic, with new titles and roles emerging, and be open to further subclassification and evolution of data scientist roles.  
+   
+[@fayyad_unicorn_2022]
 
 
+## References
 
-## What are *you* going to do to help fix this?
+::: {#refs}
+:::
+
+## Technical
+
+- Images generated with the DALLE3 model on Azure OpenAI
+- Content summarization performed by:
+  - Chunking PDFs
+  - Embedding with `text-embedding-ada-002`
+  - Using AzureAI hybrid search
+  - Summarizing with `GPT4`
+- Presentation written in Quarto and rendered as reveal.js and presented in browser
 
 
+## Let's talk! 
 
+:::: {.columns}
 
+::: {.column}
+
+![](img/its-not-easy-being-a-ds.webp)
+
+:::
+
+::: {.column}
+
+`marck.vaisman@microsoft.com`
+
+`marck.vaisman@georgetown.edu`
+
+<https://wahalulu.github.io/data-council-2024-effective-data-practitioner/>
+
+:::
+
+::::

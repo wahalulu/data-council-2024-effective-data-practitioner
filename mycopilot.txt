@@ -1,0 +1,371 @@
+#################
+
+
+"what are the different thinking modes and the skills encompassed"
+
+
+
+Certainly, let's delve into more detail regarding each of the thinking models and the skills associated with them, as outlined in the retrieved documents:  
+   
+1. **Computational Thinking**:  
+   - **Cognitive Ability**: It is a problem-solving process that involves designing solutions to be implemented by a person, a computer, or both  ^1^ .  
+   - **Independent of Technology**: Its implementation is not dependent on technology  ^1^ .  
+   - **Key Skills and Processes**: These include problem formulation, dividing a problem into sub-problems, organizing and logically analyzing data, representing data with models and simulations using abstraction, suggesting and assessing solutions, examining and implementing the chosen solution, and generalizing the solution to a range of problems  ^1^ .  
+   - **Social Skills**: Teamwork, time management, and planning and scheduling tasks are also part of computational thinking  ^1^ .  
+   - **Broad Knowledge**: Emphasizes the acquisition of multidisciplinary knowledge and skills that can be applied in various contexts  ^1^ .  
+   
+2. **Statistical Thinking**:  
+   - **Understanding of Data**: Involves an understanding of the essence, characteristics, and variability of real-life data  ^2^ .  
+   - **Statistical Inquiry**: Covers the entire process of statistical inquiry, from data collection to analysis and interpretation  ^2^ .  
+   - **Use of Statistical Methods**: Addresses when and how to use specific statistical data analysis methods  ^2^ .  
+   - **Sampling and Inference**: Refers to the nature of sampling and how to infer from samples to populations  ^2^ .  
+   - **Statistical Models**: Includes the use of statistical models and their application  ^2^ .  
+   - **Contextual Analysis**: Considers the context of a given problem when performing investigations and drawing conclusions  ^2^ .  
+   
+3. **Mathematical Thinking**:  
+   - **Mathematical Foundations**: A core competence for data science graduates, involving a deep understanding of mathematical principles  ^3^ .  
+   - **Model Building and Assessment**: Skills in constructing and evaluating mathematical models relevant to data science  ^3^ .  
+   
+4. **Application Domain Thinking**:  
+   - **Domain-Specific Knowledge**: Understanding the core principles and ethical considerations within a specific application domain  ^3^ .  
+   - **Data Curation**: Involves managing and organizing data relevant to the domain  ^3^ .  
+   - **Knowledge Transference**: Communication and responsibility in transferring domain-specific insights  ^3^ .  
+   
+5. **Data Thinking**:  
+   - **Analytical Thinking**: Combines computational and statistical thinking to analyze data effectively  ^3^ .  
+   - **Algorithms and Software Foundation**: Knowledge of algorithms and software relevant to data science  ^3^ .  
+   - **Data Curation Skills**: Involves the ability to curate and manage data efficiently  ^3^ .  
+   - **Communication and Responsibility**: Skills in communicating findings and understanding the implications of data analysis  ^3^ .  
+   
+These thinking models and associated skills are integral to the data science workflow and are necessary for addressing real-world problems involving data and decisions  ^4^  ^3^ .
+
+
+HazzanandMike-2023-GuidetoTeachingDataScienceAnInterdisciplina.pdf
+AdhikariandJordan-2021-InterleavingComputationalandInferentialThinkin.pdf
+
+
+##############################
+
+
+"can you add a more detail to each of the thinking models and provide list skills associated with each of them"
+
+
+Yes, there is a mapping of tasks to skills within the context of data science competencies. The documents indicate that competences are linked to specific knowledge topics and skills, which are then used to define the structure of a curriculum or training program  ^1^  ^2^  ^3^ . For example, the EDSF ontology can be used to extract all required knowledge topics, map them to knowledge areas (KAs) and knowledge units (KUs), and define a relevance score, which in turn helps in constructing a curriculum by mapping these to model curriculum learning units  ^1^  ^4^ .   
+  
+Additionally, the documents mention that there is no direct mapping between individual competences and knowledge topics; a single competence may be mapped to multiple knowledge topics and vice versa  ^3^  ^5^ . The CF-DS provides a mapping between knowledge topics defined for individual competences and knowledge units defined in DS-BoK  ^3^ .   
+  
+Furthermore, the documents describe Group B Skills, which refer to data analytics and data handling languages, tools, platforms, and applications, including SQL- and NoSQL-based applications and data management tools, and how these skills are described in relation to data science competencies  ^5^ .   
+  
+In summary, the documents provide evidence of a structured approach to mapping tasks to the necessary skills and knowledge areas in the field of data science, which is used for curriculum development and professional training  ^2^  ^3^  ^4^  ^5^ .
+
+
+cuadrado
+
+
+################################
+
+"talk about 21st century skills and cassie kozyrkov"
+
+
+The term "21st-century skills" refers to a broad set of knowledge, skills, work habits, and character traits that are believed to be critically important to success in today's world, particularly in collegiate programs and contemporary careers and workplaces. According to the National Research Council, these skills are categorized into three domains: cognitive, interpersonal, and intrapersonal  ^1^  ^2^ .  
+   
+Cassie Kozyrkov, mentioned in the retrieved documents, is a data scientist who has written about various roles in AI and data science. She has contributed to the field by discussing the importance of data-driven decision making and the roles that data scientists play in organizations. Kozyrkov emphasizes the need for organizations to have great data analysts and the value they bring in interpreting complex data, which is a critical 21st-century skill  ^3^ .  
+   
+Kozyrkov's work aligns with the concept of 21st-century skills by highlighting the importance of data literacy and analytical thinking, which are essential for making informed decisions in a data-rich environment. Her focus on the kinds of data scientists and the roles they play in organizations underscores the need for a diverse set of skills that go beyond technical knowledge, including critical thinking, problem-solving, and effective communication  ^3^ .  
+   
+In summary, 21st-century skills encompass a wide range of competencies that are essential for success in the modern world, and figures like Cassie Kozyrkov contribute to the discourse on how these skills are applied in the field of data science and analytics  ^1^  ^2^ .
+
+
+Weiseretal-2022-65competencieswhichonesshouldyourdataanaly.pdf
+HamutcuandFayyad-2020-TowardFoundationsforDataScienceandAnalytics.pdf
+FayyadandHamutcu-2022-FromUnicornDataScientisttoKeyRolesinDataS.pdf
+
+
+
+####################
+
+"define data literacy"
+
+Data literacy refers to the ability to read, understand, use, and communicate data effectively. It encompasses a range of skills including the comprehension of data-related concepts, the capacity to interpret and analyze data, the competence to create knowledge from data, and the proficiency to communicate insights derived from data to others  ^1^ .  
+   
+Ben Jones, the Founder and CEO of Data Literacy, LLC, describes data literacy as a new language that is essential for participation in the modern data-driven world. He emphasizes that data literacy involves not only the technical skills to handle data but also the intuition to understand what data is telling us and what it is not  ^2^ .  
+   
+Data literacy is becoming increasingly important in business, public service, media, and personal lives as it enables individuals to make data-informed decisions and participate in data-driven dialogues  ^3^ . It is considered an equalizing force in society, providing individuals with the knowledge and skills needed to navigate and succeed in environments where data plays a central role  ^3^ .
+
+
+Jones-2020-Dataliteracyfundamentalsunderstandingthepowe.pdf
+
+
+###################
+
+
+"provide a laundry list of all the unique skills described across all the works"
+
+
+The retrieved documents provide a range of skills and competencies that are considered important for data science and analytics. Here is a consolidated list of unique skills and competencies described across the documents:  
+   
+1. Analysis   
+2. Continuous learning  ^1^   
+3. Problem-solving  ^1^   
+4. Reasoning/argumentation  ^1^   
+5. Critical thinking  ^2^  ^1^   
+6. Trust  ^1^   
+7. Intellectual interest  ^3^   
+8. Responsibility  ^3^   
+9. Collaboration/cooperation  ^3^   
+10. Personal responsibility  ^3^   
+11. Professionalism  ^3^   
+12. Share information  ^3^   
+13. Communication  ^3^   
+14. Commitment to trustworthiness  ^3^   
+15. Interpretation  ^2^  ^1^   
+16. Teamwork  ^1^   
+17. Communication non-technical  ^1^   
+18. Integrity  ^1^   
+19. Uncertainty  ^1^   
+20. Scientific literacy  ^1^   
+21. Information literacy  ^1^   
+22. Proficient learner  ^3^   
+23. ICT literacy  ^3^   
+24. Productivity  ^3^   
+25. Perseverance  ^3^   
+26. Adaptive learning  ^3^   
+27. Adaptability  ^3^   
+28. Interpersonal skills  ^3^   
+29. Oral communication  ^3^   
+30. Proactive  ^3^   
+31. Inductive reasoning  ^4^   
+32. Mathematics/statistics  ^5^  ^6^   
+33. Programming and databases  ^5^   
+34. Analytics  ^5^   
+35. Domain knowledge  ^5^   
+36. Machine learning  ^5^   
+37. Ethics  ^1^   
+   
+This list represents a comprehensive set of skills that are valuable in the field of data science and analytics, as identified by experts and literature in the field. It is important to note that the importance of each skill may vary depending on the specific role and context within the field.
+
+Weiseretal-2022-65competencieswhichonesshouldyourdataanaly.pdf
+RobinsonandNolis-2020-Buildacareerindatascience.pdf
+
+
+######################
+
+
+"list all the technical concepts mentioned across all the works"
+
+Based on the retrieved documents, here is a list of technical concepts mentioned across the works:  
+   
+1. Data Science Body of Knowledge (DS-BoK)  ^1^   
+2. EDISON’s Competency Framework for Data Science (CF-DS)  ^1^   
+3. Python  ^2^   
+4. Machine learning  ^2^   
+5. Hadoop  ^2^   
+6. R programming language  ^2^   
+7. Hive  ^2^   
+8. Statistics  ^2^   
+9. Programming  ^2^   
+10. Excel  ^2^   
+11. Access  ^2^   
+12. PowerPoint  ^2^   
+13. SQL  ^2^   
+14. SQL Server  ^2^   
+15. ETL (Extract, Transform, Load)   
+16. Database design  ^2^   
+17. Analytical skills  ^2^   
+18. Business intelligence  ^2^   
+19. Data processing techniques  ^3^   
+20. Electronics/IT  ^3^   
+21. Research  ^3^   
+22. Data visualization  ^4^   
+23. Clustering  ^5^   
+24. Regression  ^6^   
+25. Factoring  ^6^   
+26. Algorithms  ^6^   
+27. Neural networks  ^6^   
+28. XML  ^6^   
+29. Data mining  ^6^   
+30. Office programs (e.g., Outlook)  ^6^   
+31. Data visualization tools  ^4^   
+32. Spark  ^6^   
+33. C/C++ programming languages  ^6^   
+34. Big data technologies  ^6^   
+35. Pivot tables  ^6^   
+36. SharePoint  ^6^   
+37. Microsoft Office VBA  ^6^   
+38. Data warehousing  ^6^   
+39. Kimball methodology  ^6^   
+40. SSAS (SQL Server Analysis Services)  ^6^   
+41. Data analytics software (e.g., Tableau, QlikView, Stata)  ^6^   
+42. Web development  ^6^   
+43. Crystal Reports  ^6^   
+44. Software development  ^6^   
+45. Distributed systems  ^6^   
+   
+These technical concepts are related to various aspects of data science, including programming languages, software tools, methodologies, and frameworks that are relevant to the field.
+
+Schmittetal-2023-EvaluationofEDISONsdatasciencecompetencyfra.pdf
+Radovilskyetal-2018-SkillsRequirementsofBusinessDataAnalyticsand.pdf
+Moletal-2024-UnravellingtheskillsofdatascientistsAtext.pdf
+HazzanandMike-2023-GuidetoTeachingDataScienceAnInterdisciplina.pdf
+RobinsonandNolis-2020-Buildacareerindatascience.pdf
+
+
+##############
+
+"is ethics and responsible ai mentioned anywhere and if so please summarize"
+
+
+Yes, ethics and responsible AI are mentioned in the retrieved documents. Here is a summary of the mentions:  
+   
+1. **Ethics in Data Science**: The documents discuss the importance of ethics in data science education and the need for a code of ethics to guide professionals in situations where it's not clear what is right or wrong. Ethical considerations are suggested to be integrated throughout the data science curriculum, and exercises are provided to explore ethical principles in various contexts, such as the creation of image sets and product development  ^1^  ^2^ .  
+   
+2. **Responsible AI**: Responsible AI is closely related to ethics and is described as a concept that should be defined by reviewing multiple resources. It is sometimes characterized by pillars, and the documents suggest finding descriptions of these pillars to understand how they are similar or different and what aspects of data science they emphasize. The documents also recommend including responsible AI in curriculum guidelines for data science programs  ^3^  ^4^ .  
+   
+3. **Ethical Norms for Stakeholders**: Table 12.2 in the documents outlines ethical norms that different stakeholders should adhere to during various phases of the data science workflow. This includes data collection, exploratory data analysis, modeling, drawing conclusions, and implementation. For example, data scientists are advised to ensure that the diversity of data represents the population  ^3^  ^4^ .  
+   
+4. **Generative Adversarial Networks (GANs)**: GANs are discussed from an ethical perspective, exploring how they can be helpful or cause damage, how their benefits can be leveraged, and how potential damages can be mitigated. The documents also suggest using GANs to teach social issues and ethics in data science  ^2^ .  
+   
+5. **Embedded Ethics**: The concept of embedded ethics is presented, which emphasizes the integration of ethical and social issues into all areas of computer science and, by extension, data science. This approach is contrasted with stand-alone courses and is shown to be advantageous in demonstrating the pervasiveness of ethical considerations  ^5^ .  
+   
+6. **Ethical Issues in AI and Computing Conference**: The titles of presentations at this conference are suggested as a source to learn about the orientation of the conference and the implementation of embedded ethics in data science  ^5^ .  
+   
+7. **AI + Ethics Curriculum for Middle School**: The documents mention initiatives like the AI + Ethics Curriculum for Middle School and ai4k12, which aim to develop pedagogical guidelines for teaching ethics in the context of AI to younger learners  ^5^ .  
+   
+In conclusion, ethics and responsible AI are recurring themes in the documents, emphasizing their importance in the education and practice of data science and AI. The documents advocate for the inclusion of ethical considerations throughout the data science workflow and educational programs to ensure that professionals and students are equipped to make responsible decisions in their work  ^1^  ^3^  ^4^  ^2^  ^5^ .
+
+
+HazzanandMike-2023-GuidetoTeachingDataScienceAnInterdisciplina.pdf
+
+
+##################
+
+"summarize the data literacy graphic"
+
+The graphic presents an overview of data literacy, which is crucial for UX designers. It defines data literacy as the ability to consume knowledge, produce coherently, and think critically about data. It emphasizes the importance of understanding the context, technical issues, data collection and processing methods, source limitations, sample size, and methodology when working with data. It also touches on the importance of being aware of biases such as selection, confirmation, survivorship, hindsight, curse of knowledge, and clustering illusion. The graphic underlines the significance of collaborating with developers and data scientists, conducting one's own research, and integrating both qualitative and quantitative methods.  
+   
+Moreover, it details aspects of quantitative research, including numeracy, statistical literacy, baseline, statistical significance, and common errors like random noise and sampling bias. It highlights the need for data quality, data cleaning, understanding the relationships between variables, and different data types (quantitative and discrete). The process of data analysis is broken down into deciding what to measure, collecting data systematically, and analyzing and interpreting the data to add meaning and inform decisions.
+
+##############
+
+"what are some of tehe functional areas that make up data science"
+
+Data science encompasses a variety of functional areas that contribute to its interdisciplinary nature. According to the retrieved documents, these areas include:  
+   
+1. **Big Data Infrastructure and Technologies**: This includes knowledge of NOSQL databases, platforms for big data deployment, and technologies for large-scale storage  ^1^ .  
+2. **Software and Infrastructure Engineering**: This involves the use of engineering principles to design, develop, and implement new instruments and applications for data collection, analysis, and management  ^1^ .  
+3. **Data Management Systems**: This area covers data architectures, data modeling, databases and database management systems, data structures, data models and query languages, database design and models, and middleware for databases  ^2^ .  
+4. **Enterprise Data Infrastructure**: This includes data warehousing and business intelligence, data storage and operations, metadata, linked data, provenance, data security and protection, and data privacy  ^2^ .  
+5. **Data Governance**: This area involves the oversight of data management systems and enterprise data infrastructure, ensuring that data is managed and used effectively and ethically  ^2^ .  
+6. **Analytics and Applications to Business Analytics**: This area focuses on the application of data science to business problems, including the use of statistical and quantitative methods, and functional areas such as finance, financial accounting, and marketing  ^3^ .  
+7. **Scientific Research Methods**: This involves the application of data science to scientific inquiry, including the design of experiments and exploratory analysis  ^4^ .  
+   
+These functional areas reflect the broad scope of knowledge and skills required in the field of data science, which integrates aspects of computer science, mathematics, statistics, and domain-specific knowledge to analyze and interpret complex data  ^1^  ^3^  ^4^  ^2^ .
+
+Cuadrado-GallegoandDemchenko-2020-TheDataScienceFrameworkAViewfromtheEDISON.pdf
+Radovilskyetal-2018-SkillsRequirementsofBusinessDataAnalyticsand.pdf
+HamutcuandFayyad-2020-TowardFoundationsforDataScienceandAnalytics.pdf
+
+#########
+
+"would cloud computing also be a distinct functional area"
+
+
+Yes, cloud computing is indeed a distinct functional area within data science. The retrieved documents highlight several aspects of cloud computing as they relate to data science:  
+   
+1. **Cloud Computing Architecture and Services**: This includes understanding the architecture of cloud services and how they can be used for big data and data analytics  ^1^  ^2^ .  
+   
+2. **Cloud Computing Engineering**: This involves the design, management, and operation of cloud computing services  ^1^ .  
+   
+3. **Cloud-Enabled Applications Development**: This area covers the development of applications using cloud services, including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS)  ^1^ .  
+   
+4. **Big Data Infrastructure and Technologies**: Cloud computing is closely related to big data technologies and is classified under networks, computer systems organization, and software engineering in the ACM CCS2012  ^3^  ^4^ .  
+   
+5. **Infrastructure and Platforms for Data Science Applications**: This includes knowledge of big data frameworks, infrastructures, and data processing models that are often cloud-based  ^4^  ^1^ .  
+   
+6. **Cloud-Based Big Data Platforms and Services**: This refers to the use of cloud platforms and services specifically designed to handle large-scale data storage and processing  ^2^ .  
+   
+7. **Cloud Computing's Role in Data Science**: Cloud computing is recognized as a new technology that is closely related to big data technologies and is an important component of the data science knowledge area groups  ^5^  ^6^ .  
+   
+In summary, cloud computing is a critical functional area in data science, providing the infrastructure and platforms necessary for storing, processing, and analyzing large datasets in a scalable and efficient manner  ^3^  ^4^  ^1^  ^2^  ^5^  ^6^ .
+
+guardado 2020 and 2023
+
+
+##################
+
+"create a slide that summarized the edison project"
+
+I'm unable to create slides directly, but I can provide you with a text-based summary that you could use to create a slide about the EDISON project. Here's a summary you can use:  
+   
+---  
+   
+**Title: Overview of the EDISON Project**  
+   
+**Background:**  
+- The EDISON Project was an EU-funded initiative under Horizon 2020 (Grant 675419) developed from 2015 to 2017  ^1^ .  
+- Aimed to establish the foundation for the data science profession in Europe  ^1^ .  
+- Originated from the Research Data Alliance community initiative in 2014  ^1^ .  
+   
+**Objectives:**  
+- Address the demand for skilled data specialists capable of extracting value from the data explosion  ^1^ .  
+- Involve data experts and practitioners from academia, research, and industry to define the data science profession  ^1^ .  
+   
+**Main Outcomes:**  
+- EDISON Data Science Framework (EDSF), a comprehensive structure for the data science profession  ^1^ .  
+- EDSF Release 2 was the final deliverable in 2017, with subsequent updates in 2018 (Release 3) and 2020 (Release 4)  ^2^ .  
+   
+**Components of EDSF:**  
+1. Data Science Competence Framework (CF-DS) - EDSF Part 1  ^3^ .  
+2. Data Science Body of Knowledge (DS-BoK) - EDSF Part 2  ^3^ .  
+3. Data Science Model Curriculum (MC-DS) - EDSF Part 3  ^3^ .  
+4. Data Science Professional Profiles and Occupations Taxonomy (DSPP) - EDSF Part 4  ^3^ .  
+   
+**Impact:**  
+- Provides a basis for data science education, training, role definition, skills management, and professional certification  ^3^ .  
+- Facilitates a multidimensional definition of the data science profession and methodology for human resources management in data science  ^4^ .  
+   
+**Legacy:**  
+- EDSF maintained by the EDISON Community Initiative coordinated by the University of Amsterdam  ^2^ .  
+- Contributions from projects like MATES on digital and data skills for Industry 4.0 and FAIR competences from the FAIRsFAIR project  ^2^ .  
+   
+---  
+   
+You can use this summary to create a slide that captures the essence of the EDISON project. Each bullet point can be a talking point or a bullet on your slide.
+
+guardado demcehckin 2020 and 2023
+
+
+################
+
+"what can leaders managers and practitoners do to come to terms with definitions and expectations?"
+
+Leaders, managers, and practitioners can take several steps to come to terms with definitions and expectations in the field of data science:  
+   
+1. **Standardize Roles**: Adopt a simplified and anchor categorization of job roles with clear definitions and expectations to reduce confusion and align understanding across the industry  ^1^ .  
+   
+2. **Utilize Frameworks**: Refer to established frameworks such as the IADSS Data Science Knowledge Framework to converge on the body of knowledge specification and ensure consistency in role definitions  ^1^  ^2^ .  
+   
+3. **Skills-Based Assessment**: Implement objective, skills-based assessments to standardize the evaluation of data science professionals and ensure alignment with role requirements  ^2^ .  
+   
+4. **Industry-Specific Classifications**: Extend the work to include industry-specific role classifications that cater to the unique needs and contexts of different sectors  ^2^ .  
+   
+5. **Benchmarking and Comparison**: Compare and contrast standardized role definitions with actual industry practices, such as analyzing LinkedIn job posts, to ensure relevance and applicability  ^2^ .  
+   
+6. **Communication and Education**: Communicate the process and expectations clearly to all stakeholders, including hiring managers, executives, educators, and aspiring data science professionals, to align expectations  ^2^ .  
+   
+7. **Continuous Evolution**: Recognize that the field is dynamic, with new titles and roles emerging, and be open to further subclassification and evolution of data scientist roles  ^2^ .  
+   
+By taking these steps, leaders, managers, and practitioners can work towards a common understanding of data science roles, which is crucial for effective team building, project planning, and professional development within the field  ^1^  ^2^ .
+
+FayyadandHamutcu-2022-FromUnicornDataScientisttoKeyRolesinDataS.pdf
+
+
+
+
+- **Data Businesspeople:** These are data scientists who are especially adept at understanding the business context around their data work. They have strong business acumen and are often involved in decision-making processes. They are likely to be involved in generating actionable insights that can influence business strategies.
+
+- **Data Creatives:** Considered as the broadest of the data scientist clusters, Data Creatives are characterized by their strong ability to tackle new problems with innovative solutions. They have a rich skill set that can adapt to various challenges and are often the ones to come up with novel approaches to data analysis.
+
+- **Data Developers:** These individuals are focused on the technical problem-solving aspects of data science. They have strong skills in software engineering and are often responsible for building the infrastructure required for data analysis such as databases, pipelines, and data processing systems.
+
+- **Data Researchers:** Originating from academic or research backgrounds, Data Researchers bring a deep understanding of statistics and mathematics to their data science work. They are likely to be involved in developing new algorithms and statistical models.

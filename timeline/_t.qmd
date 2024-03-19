@@ -1,0 +1,142 @@
+---
+title: Timeline
+format: 
+  revealjs:
+    css: [../timeline.css, ../custom.css]
+---
+
+::: {.fragment .fade-out fragment-index=1}
+### A brief history of forecasting in R
+:::
+
+::: columns
+::: {.column width="60%"}
+
+::: {.container .fragment .fade-up fragment-index=1}
+::: {.timeline .timeline-left style="height: 720px;"}
+
+
+
+::: {.timeline-block}
+::: {.timeline-icon}
+![](resources/Rlogo.svg)
+:::
+::: {.timeline-content}
+The `ts` package is added to R v0.65
+
+::: {.timeline-details .fragment .fade-out fragment-index=2}
+
+[Time-series functionality from S-PLUS in R.]{style="padding-top:20px;display:block;"}
+
+[Adds many great functions, including `ts()`, `stl()`, `arima()` and... `filter()`!]{style="padding-top:20px;display:block;"}
+
+:::
+::: {.timeline-date}
+Jul 1999
+:::
+:::
+:::
+
+
+
+::: {.timeline-block .fragment .fade-up fragment-index=2}
+::: {.timeline-icon}
+![](resources/forecast.svg)
+:::
+::: {.timeline-content}
+Rob creates the `forecast` package
+
+::: {.timeline-details .fragment .fade-out fragment-index=3}
+![](images/rob.png){style="height:160px;float:right;padding-left:10px"}
+[The package extends `{ts}` with various functions used by Rob in his time-series consulting projects, such as `ets()` and `thetaf()`.]{style="padding-top:20px;display:block;"}
+:::
+::: {.timeline-date}
+Jul 2003
+:::
+:::
+:::
+
+
+
+::: {.timeline-block .fragment .fade-up fragment-index=3}
+::: {.timeline-icon}
+![](resources/forecast.svg)
+:::
+::: {.timeline-content}
+I start working on the `forecast` package
+
+::: {.timeline-details .fragment .fade-out fragment-index=4}
+![](images/mitch.png){style="height:160px;float:right;padding-left:10px"}
+[Working with Rob at Monash University, I start fixing bugs, improving forecasting workflows and adding 'tidy' features to the package.]{style="padding-top:20px;display:block;"}
+:::
+::: {.timeline-date}
+Dec 2015
+:::
+:::
+:::
+
+
+
+::: {.timeline-block .fragment .fade-up fragment-index=4}
+::: {.timeline-icon}
+![](resources/tsibble.svg)
+:::
+::: {.timeline-content}
+Earo creates the `tsibble` package
+
+::: {.timeline-details .fragment .fade-out fragment-index=5}
+![](images/earo.png){style="height:160px;float:right;padding-left:10px"}
+[As part of her PhD, Earo creates `tsibble` - a rectangular and tidyverse compatible time series data alternative to `ts()`.]{style="padding-top:20px;display:block;"}
+
+:::
+::: {.timeline-date}
+Jul 2017
+:::
+:::
+:::
+
+::: {.timeline-block .fragment .fade-up fragment-index=5}
+::: {.timeline-icon}
+![](resources/fable.svg)
+:::
+::: {.timeline-content}
+Mitchell creates the `fable` package
+
+::: {.timeline-details .fragment .fade-out fragment-index=6}
+![](images/mitch.png){style="height:160px;float:right;padding-left:10px"}
+[Building upon `tsibble`, I create `fable` - the tidy time series forecasting successor to the `forecast` package.]{style="padding-top:20px;display:block;"}
+
+:::
+::: {.timeline-date}
+Feb 2018
+:::
+:::
+:::
+
+
+
+::: {.timeline-block .fragment .fade-up fragment-index=6}
+::: {.timeline-icon}
+![](resources/forecast-gray.svg)
+:::
+::: {.timeline-content}
+The `forecast` package is retired
+
+::: {.timeline-details}
+[Still maintained, but no new features.]{style="padding-top:20px;display:block;"}
+
+:::
+::: {.timeline-date}
+Sep 2019
+:::
+:::
+:::
+
+
+
+:::
+:::
+
+
+:::
+:::
