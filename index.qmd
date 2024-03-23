@@ -6,7 +6,7 @@ format:
     theme: [clean.scss]
     width: 1600
     height: 900
-    pdf-separate-fragments: true
+    pdf-separate-fragments: false
     slide-number: c/t
     margin: 0.1
     toc: false
