@@ -234,3 +234,14 @@ $selection-bg: #26351c !default;
   height: auto;
   object-fit: contain;
 }
+
+.phrase {
+  color: white;
+  font-weight: bold;
+  font-size: 4em;
+  text-align: center;
+  position: absolute;
+  bottom: 5%;
+  left: 50%;
+  transform: translateX(-50%);
+}

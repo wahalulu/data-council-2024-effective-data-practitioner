@@ -33,36 +33,45 @@ Ah, simpler times: when unicorns roamed free and data practitioners were mythica
 :::
 
 
-## Feeling lonely?
+## {background-image="img/celine.gif"}
 
-![](img/celine.gif){fig-align="center"}
-
-::: {.fragment}
-**ALL BY MYSELF**
+::: {.phrase}
+ALL BY MYSELF
 :::
-
-::: {.notes}
-you're not
-:::
-
 
 ## 
 
-![](img/atan_cover.jpg){.absolute bottom=0 left=600 height="200"}
+![](img/atan_cover.jpg){.absolute bottom=0 left=700 height="200"}
 
 :::: {.columns}
 
-:::{.column width="50%"}
+:::{.column width="65%"}
 
-![](img/atan_personas.png){height="650"}
+![](img/atan_personas.png){height="750"}
 
 :::
 
-:::{.column width="50%"}
-- **Data Businesspeople:** especially adept at understanding the business context around their data work, have strong business acumen and are often involved in decision-making processes. They are likely to be involved in generating actionable insights that can influence business strategies.
-- **Data Creatives:** the broadest of the data scientist clusters, they are characterized by their strong ability to tackle new problems with innovative solutions. They have a rich skill set that can adapt to various challenges and are often the ones to come up with novel approaches to data analysis.
-- **Data Developers:** focused on the technical problem-solving aspects of data science with skills in software engineering and are often responsible for building the infrastructure required for data analysis such as databases, pipelines, and data processing systems.
-- **Data Researchers:** originating from academic or research backgrounds, bring a deep understanding of statistics and mathematics to their data science work. They are likely to be involved in developing new algorithms and statistical models.
+:::{.column width="35%"}
+
+<br/>
+
+### Four personas
+
+- Data Businesspeople
+- Data Creatives
+- Data Developers
+- Data Researchers
+
+<br/>
+
+### Five skill areas
+
+- Business
+- ML/Big Data
+- Math/OR
+- Programming
+- Statistics
+
 :::
 
 ::::
@@ -124,12 +133,9 @@ you're not
 ## In 2024, the hard truth: an _overloaded_ definition and set of expectations leading to the _Data Practitioner Brew_
 
 
-![](img/data-science-cauldron.png){fig-align="center" height="650"}
+![`DALL·E 3 prompt:` An ethnically and gender diverse group of at least eight sorcerers standing around a large cauldron labeled "Data Science" acting as if they are throwing stuff in. The cauldron must be visible. The liquid in the cauldron is bubbling and smoke is rising.](img/data-science-cauldron.png){fig-align="center" height="700"}
 
 
-::: aside
-`DALL·E 3 prompt:` An ethnically and gender diverse group of at least eight sorcerers standing around a large cauldron labeled "Data Science" acting as if they are throwing stuff in. The cauldron must be visible. The liquid in the cauldron is bubbling and smoke is rising. The smoke cloud is translucid and there it's just plain
-:::
 
 ::: {.notes}
 SQL, Python, and a dash or dark magic
@@ -158,51 +164,34 @@ SQL, Python, and a dash or dark magic
 
 ### 2024
 
-![](img/octopus-with-terms.png){height="650"}
+![`DALL·E 3 prompt:` a developer with eight arms, each typing on a separate macbook laptop where the screen is showing matrix like green text](img/octopus-with-terms.png){height="650"}
 
 :::
 :::
 ::::
 
-::: aside
-`DALL·E 3 prompt:` a developer with eight arms, each typing on a separate macbook laptop where the screen is showing matrix like green text
-:::
+
 
 ## Expectations vs. Reality
 
-::: {layout-ncol="2"}
-
 ::: {.fragment}
-![](img/aienginner-interview-job.jpeg){height="550"}
-:::
+![](img/aienginner-interview-job.jpeg){.absolute top=100 left=0 height="700"}
 
-::: {.fragment}
-![](img/genai-interview-job.jpeg)
-:::
 
+![](img/genai-interview-job.jpeg){.absolute top=250 left=800}
 :::
 
 
-## ooops!
 
-:::: {.columns}
 
-:::{.column}
-:::{.fragment}
+## Ooops, we f**** up!
 
-![](img/tablets.gif){width="700"}
 
-:::
-:::
+![](img/tablets.gif){.absolute top=200 left=50 width=850}
 
-::: {.column}
-::: {.fragment}
 
-![](img/fault.gif)
+![](img/fault.gif){.absolute top=200 left=1000}
 
-:::
-:::
-::::
 
 ::: {.notes}
 we screwed up somewhere along the way. between new tools, new technologies, not knowing what we actually need, or tryng to blindly follow others we overloaded this thing. We're all at fault.
@@ -232,6 +221,67 @@ Data Science can be considered a:
 I'm not planning on defining something that is hard to define. Look at all the possibilities. It's an amazing field and it's really great to be a part of it and we can do better.
 :::
 
+## Data Science is extremely complex
+
+Data Science can be considered a:
+
+::: {layout="[[30,-5,30,-5,30], [-13.33,30,-13.33,30,-13.33]]"}
+
+[Science]{style="font-size:4em"}
+
+[Research paradigm]{style="font-size:4em"}
+
+[Research method]{style="font-size:4em"}
+
+[Workflow]{style="font-size:4em"}
+
+[Profession]{style="font-size:4em"}
+
+:::
+   
+[@hazzan_guide_2023]
+
+::: {.notes}
+I'm not planning on defining something that is hard to define. Look at all the possibilities. It's an amazing field and it's really great to be a part of it and we can do better.
+:::
+
+
+## Data Science is complex
+
+::: {.columns}
+
+::: {.column}
+### Multiple and not mutually-exclusive definitions
+
+- Science
+
+- Research paradigm
+
+- Research method
+
+- Workflow
+
+- Profession
+:::
+
+::: {.column}
+::: {.fragment}
+### Mastering it's broadness is extremely difficult and needs time
+![](img/juggling.gif){fig-align="center"}
+:::
+:::
+
+:::
+
+   
+[@hazzan_guide_2023]
+
+::: {.notes}
+I'm not planning on defining something that is hard to define. Look at all the possibilities. It's an amazing field and it's really great to be a part of it and we can do better.
+:::
+
+
+
 
 ## Mastering it's broadness is extremely difficult and needs time
 
@@ -246,20 +296,24 @@ I'm not planning on defining something that is hard to define. Look at all the p
 
 :::: {.columns}
 
-::: {.column}
+::: {.column width="65%"}
 
-![](img/lecture-command-line-2.png){height="650"}
+![`DALL·E 3 prompt:` a lecturer standing in the front of the room facing tells a classroom full of students that are working on laptops to “open the command line” and the students have and puzzled, surprised and nervous reactions
+](img/lecture-command-line-2.png){height="700"}
 
 :::
 
-::: {.column .r-fit-text}
+::: {.column width="35%"}
+
+<br/>
+
 ### Challenges
 
-- **Broad Discipline:** Data science encompasses a very broad discipline with a large body of knowledge, making it difficult to cover all necessary topics comprehensively.
-- **Complex Topics:** It contains complex topics such as machine learning algorithms, which require a deep understanding of mathematics and theoretical concepts.
-- **Variety of Thinking Skills:** Data science education requires a variety of thinking skills, including interdisciplinary thinking, computational thinking, and statistical thinking.
-- **Special Professional and Organizational Skills:** Beyond technical skills, data science also requires special professional skills such as teamwork, storytelling, and ethical behavior.
-- **Educators' Background:** Many data science educators may not be data science majors themselves but may come from one of the disciplines that intersect to create data science, such as mathematics, statistics, computer science, or a specific application domain.
+- Broad Discipline
+- Complex Topics
+- Variety of Thinking Skills
+- Special Professional and Organizational Skills
+- Educators' Background
 
 [@hazzan_guide_2023]
 :::
@@ -267,7 +321,6 @@ I'm not planning on defining something that is hard to define. Look at all the p
 ::::
 
 ::: aside
-`DALL·E 3 prompt:` a lecturer standing in the front of the room facing tells a classroom full of students that are working on laptops to “open the command line” and the students have and puzzled, surprised and nervous reactions
 :::
 
 ::: {.notes}
@@ -280,11 +333,35 @@ Anecdotes:
 
 ## WWDSD?
 
+:::: {.columns}
+
+::: {.column width="65%"}
+
 ::: {.fragment}
 What would a Data Scientist do? `#askingforafriend`
 
 ![](img/brain-meme.jpg)
 :::
+
+:::
+
+::: {.column width="35%"}
+
+::: {.fragment}
+### What?
+- Preliminary research
+- Collect/compile data
+- Process data
+- Analyze/summarize/model data
+- Present results
+:::
+
+::: {.fragment}
+### How
+- Use generative AI to help, duh!
+:::
+:::
+::::
 
 ::: {.notes}
 
@@ -329,19 +406,22 @@ we need to be careful,we need a collective standard not one more, but using this
 ## 
 
 
+::: {layout="[[1], [1,1,1]]"}
 
-
-::: {layout="[[1,1], [1]]"}
+![](img/cuadrado-gallego-2020-fig-2-5.png){fig-align="center"}
 
 ### Skills
 The difference between a skill and a competency is often related to the **scope** and **integration of knowledge**, **abilities**, and **behaviors**. A skill is typically understood as a specific learned activity that can be performed, often something that can be developed through practice. Competencies, on the other hand, are broader and include a combination of skills, knowledge, and attributes that enable someone to perform effectively in a job or situation  ^1^ .  
    
+### Competences
+
+
+
 ### Competencies   
 Competencies are often described as more holistic, encompassing not just the ability to perform a task (skill) but also the understanding (knowledge) and the appropriate application (attributes) of that skill in various contexts. They reflect a person's capability to apply or use a set of related knowledge, skills, and abilities required to successfully perform "critical work functions" or tasks in a defined work setting  ^1^ .  
 
 ###
 
-![](img/cuadrado-gallego-2020-fig-2-5.png){fig-align="center"}
 
 :::
 
@@ -395,75 +475,6 @@ In summary, while skills are specific to certain tasks, competencies are more co
 
 [@weiser_65_2022; @hamutcu_toward_2020; @fayyad_unicorn_2022; @hazzan_guide_2023; @adhikari_interleaving_2021; @cuadrado-gallego_data_2023]
 
-
-## Data Analytics {.smaller}
-
-[most likely remove]{style="color: red"}
-
-
-::: {layout-ncol="4"}
-
-### Main competency group (task)
-
-1. Effectively use variety of data analytics techniques, such as machine learning (including supervised, unsupervised, semi-supervised learning), data mining, prescriptive and predictive analytics, for complex data analysis through the whole data life cycle
-2. Apply designated quantitative techniques, including statistics, time series analysis, optimisation and simulation to deploy appropriate models for analysis and prediction
-3. Identify, extract and pull together available and pertinent heteroge- neous data, including modern data sources such as social media data, open data, governmental data, verify data quality
-4. Understand and use different performance and accuracy metrics for model validation in analytics projects, hypothesis testing and information retrieval
-5. Develop required data analytics for organisational tasks, integrate data analytics and processing applications into organisation workflow and business processes to enable agile decision-making
-6. Visualise results of data analysis, design dashboard and use storytelling methods
-
-### Skills (technique)
-
-1. Use machine learning technology, algorithms, tools, including supervised, unsupervised or reinforced learning
-2. Use data mining techniques
-3. Use text data mining techniques
-1. General statistical analysis methods and techniques, descriptive analytics
-1. Use quantitative analytics methods
-1. Use qualitative analytics methods
-1. Apply predictive analytics methods
-1. Apply prescriptive analytics methods
-1. Use graph data analytics for organisational network analysis, cus- tomer relations, other tasks
-1. Apply analytics and statistics methods for data preparation and preprocessing
-1. Be able to use performance and accuracy metrics for data analytics assessment and validation
-1. Use effective visualisation and storytelling methods to create dash- boards and data analytics reports
-1. Use natural language processing methods
-1. Operations research
-1. Optimisation
-1. Simulation
-
-### Knowledge 
-
-1. Machine learning supervised: decision trees, naïve Bayes classifi- cation, ordinary least square regression, logistic regression, neural networks, SVM (support vector machine), ensemble methods, others
-1. Machine learning unsupervised: clustering algorithms, principal component analysis (PCA), singular value decomposition (SVD), independent component analysis (ICA)
-1. Machine learning (reinforced): Q-learning, TD-learning, genetic algorithms)
-1. Data mining (text mining, anomaly detection, regression, time series, classification, feature selection, association, clustering)
-1. Text data mining: statistical methods, NLP, feature selection, a priori algorithm, etc.
-1. General statistical analysis methods and techniques, descriptive analytics
-1. Quantitative analytics
-1. Qualitative analytics
-1. Predictive analytics
-1. Prescriptive analytics
-1. Graph data analytics: path analysis, connectivity analysis, community analysis, centrality analysis, sub-graph isomorphism, etc.
-1. Natural language processing
-1. Data preparation and preprocessing
-
-### Tools, platforms, and applications
-
-1. R and data analytics libraries (cran, ggplot2, dplyr, reshap2, etc.)
-1. Python and data analytics libraries (pandas, numpy, mathplotlib, scipy, scikit-learn, seaborn, etc.)
-1. SAS
-1. Julia
-1. IBM SPSS
-1. Other Statistical computing and languages (WEKA, KNIME, Scala, Stata, Orange, etc)
-1. Scripting language, e.g. Octave, PHP, Pig, others
-1. Matlab Data Analytics
-1. Analytics tools (R/R Studio, Python/Anaconda, SPSS, Matlab, etc)
-1. Data Mining tools: RapidMiner, Orange, R, WEKA, NLTK, others
-1. Excel Data Analytics (Analysis ToolPack, PivotTables, etc)
-
-:::
-
-
 ## Data Analytics Summary
 
 Data analytics competences deal with the use of appropriate data analytics and statistical techniques on available data to discover new relations and deliver insights into research problem or organisational processes and support decision-making and cover extensive skills related to using different machine learning, data mining, statistical methods and algorithms.
@@ -477,67 +488,7 @@ Data analytics competences deal with the use of appropriate data analytics and s
 - **Computational Modeling, Simulation, and Optimization:** Pertains to methods used for computational modeling, simulation, and optimization .
 
 
-## Data Engineering {.smaller}
 
-[most likely remove]{style="color: red"}
-
-
-:::{layout-ncol="4"}
-
-### Main competency group (task)
-
-1. Use engineering principles (general and software) to research, design, develop and implement new instruments and applications for data collection, storage, analysis and visualisation
-2. Develop and apply computational and data-driven solutions to domain-related problems using a wide range of data analytics platforms, with the special focus on big data technologies for large datasets and cloud-based data analytics platforms
-3. Develop and prototype specialised data analysis applications, tools and supporting infrastructures for data-driven scientific, business or organisational workflow; use distributed, parallel, batch and streaming processing platforms, including online and cloud-based solutions for on-demand provisioned and scalable services
-4. Develop, deploy and operate large-scale data storage and processing solutions using different distributed and cloud-based platforms for storing data (e.g. Data Lakes, Hadoop, HBase, Cassandra, MongoDB, Accumulo, DynamoDB, others)
-5. Consistently apply data security mechanisms and controls at each stage of the data processing, including data anonymisation, privacy and IPR protection
-6. Design, build, operate relational and non-relational databases (SQL and NoSQL), integrate them with the modern data warehouse solutions, ensure effective ETL (extract, transform, load), OLTP, OLAP processes for large datasets
-
-
-### Skills (technique)
-
-1. Use systems and software engineering principles to organisations information system design and development, including requirements design
-2. Use cloud computing technologies and cloud-powered services
-design for data infrastructure and data handling services
-3. Use cloud-based big data technologies for large datasets
-processing systems and applications
-4. Use agile development technologies, such as DevOps and contin-
-uous improvement cycle, for data-driven applications
-5. Develop and implement systems and data security, data access,
-including data anonymisation, federated access control systems
-6. Apply compliance-based security models, in particular for privacy
-and IPR protection
-7. Use relational, non-relational databases (SQL and NoSQL), data
-warehouse solutions, ETL (extract, transform, load), OLTP, OLAP processes
-for structured and unstructured data
-8. Effectively use big data infrastructures, high-performance net-
-works, infrastructure and services management and operation
-9. Use and apply modelling and simulation technologies and systems
-10. Use and integrate with the organisational information systems,
-collaborative system
-11. Design efficient algorithms for accessing and analysing large
-amounts of data, including API to different databases and datasets
-12. Use of recommender or ranking system
-
-
-### Knowledge 
-
-1. Systems engineering and software engineering principles, methods and models, distributed systems design and organisation
-2. Cloud computing, cloud-based services and cloud-powered ser- vices design
-3. Big data technologies for large datasets processing: batch, parallel, streaming systems, in particular cloud based
-4. Applications software requirements engineering and design, agile development technologies, DevOps and continuous improvement cycle
-5. Systems and data security, data access, including data anonymisation, federated access control systems
-6. Compliance-based security models, privacy and IPR protection
-7. Relational, non-relational databases (SQL and NoSQL), data warehouse solutions, ETL (extract, transform, load), OLTP, OLAP processes for large datasets
-8. Big data infrastructures, high-performance networks, infrastruc- ture and services management and operation
-9. Modelling and simulation, theory and systems
-10. Information systems, collaborative systems
-
-### Tools, platforms, and applications
-
-- missing
-
-:::
 
 ## Data Engineering Summary
 
@@ -554,57 +505,6 @@ Here is a summary of the competences identified in the DSDEG section:
 - Develop and prototype specialized data analysis applications, tools, and supporting infrastructures for data-driven scientific, business, or organizational workflow; use distributed, parallel, batch, and streaming processing platforms, including online and cloud-based solutions.
 
 - Develop, deploy, and operate large-scale data storage and processing solutions using different distributed and cloud-based platforms for storing data (e.g., Data Lakes, Hadoop, HBase, Cassandra, MongoDB, Accumulo, DynamoDB, etc.).
-
-## Data Management Skills/Competencies/Knowledge
-
-[most likely remove]{style="color: red"}
-
-
-:::{layout-ncol="4"}
-
-
-### Main competency group (task)
-
-1. Develop and implement data strategy, in particular, in the form of data management policy and data management plan (DMP)
-2. Develop and implement relevant data models, define metadata using common standards and practices, for different data sources in a variety of scientific and industry domains
-3. Integrate heterogeneous data from multiple source and provide them for further analysis and use
-4. Maintain historical information on data handling, including reference to published data and corresponding data sources (data provenance)
-5. Ensure data quality, accessibility, interoperability, compliance to standards and publication (data curation)
-6. Develop and manage/supervise policies on data protection, privacy, intellectual property Rights, IPR and ethical issues in data management
-
-
-### Skills (technique)
-
-Specify, develop and implement enterprise data management and data governance strategy and architecture, including data management plan (DMP)
-2. Data storage systems, data archive services, digital libraries and their operational models
-. Define requirements to and supervise implementation of the hybrid data management infrastructure, including enterprise private and public cloud resources and services
-4. Develop and implement data architecture, data types and data for- mats, data modelling and design, including related technologies (ETL, OLAP, OLTP, etc.)
-5. Implement data lifecycle support in organisational workflow, support data provenance and linked data
-6. Consistently implement data curation and data quality controls, ensure data integration and interoperability
-7. Implement data protection, backup, privacy, mechanisms/services, comply with IPR, ethics and responsible data use
-8. Use and implement metadata, PID, data registries, data factories, standards and compliance
-9. Adhere to the principles of the open data, open science, open access, use ORCID-based services
-
-### Knowledge 
-
-Data management and enterprise data infrastructure, private and public data storage systems and services
-2. Data storage systems, data archive services, digital libraries and their operational models
-3. Data governance, data governance strategy, data management plan (DMP)
-4. Data architecture, data types and data formats, data modelling and design, including related technologies (ETL, OLAP, OLTP, etc.)
-5. Data lifecycle and organisational workflow, data provenance and linked data
-6. Data curation and data quality, data integration and interoperability
-7. Data protection, backup, privacy, IPR, ethics and responsible
-data use
-8. Metadata, PID, data registries, data factories, standards and
-compliance
-9. Open data, open science, research data archives/repositories, open
-access, ORCID
-
-### Tools, platforms, and applications
-
-- missing
-
-:::
 
 
 
@@ -627,52 +527,7 @@ Here is a summary of the competences identified in the DSDM section:
 - Ensure data quality, accessibility, interoperability, compliance to standards, and publication (data curation) 1 .
 
 
-## Research Methods and Project Management {.smaller}
 
-
-[most likely remove]{style="color: red"}
-
-
-### Main competency group (task)
-
-Data science research methods and project management competences create new understandings and capabilities by using the scientific method (hypothesis, test/ artefact, evaluation) or similar engineering methods to discover new approaches to create new knowledge and achieve research or organisational goals.
-
-
-1. Create new understandings by using the research methods (including hypothesis, artefact/experiment, evaluation) or similar engineering research and development methods
-2. Direct systematic study towards understanding of the observable facts, and discover new approaches to achieve research or organisational goals
-3. Analyse domain-related research process model, identify and analyse available data to identify research questions and/or organisational objectives and formulate sound hypothesis
-4. Undertake creative work, making systematic use of investigation or experimentation, to discover or revise knowledge of reality, and use this knowl- edge to devise new applications, contribute to the development of organisational objectives
-5. Design experiments which include data collection (passive and active) for hypothesis testing and problem-solving
-6. Develop and guide data-driven projects, including project planning, experiment design, data collection and handling.
-
-### Skills (technique)
-
-1. Use research methods principles in developing data-driven appli- cations and implementing the whole cycle of data handling
-2. Design experiment, develop and implement data collection process
-3. Apply data lifecycle management model to data collection and data quality evaluation
-4. Apply structured approach to use case analysis
-5. Develop and implement research data management plan (DMP),
-apply data stewardship procedures
-6. Consistently apply project management workflow: scope, planning, assessment, quality and risk management, team management
-
-
-### Knowledge 
-
-1. Research methods, research cycle, hypothesis definition and testing
-2. Experiment design, modelling and planning
-3. Data life cycle and data collection, data quality evaluation
-4. Use case analysis: research infrastructure and projects
-5. Research data management plan (DMP) and data stewardship
-6. Research data management plan (DMP) and data stewardship
-7. Project management: scope, planning, assessment, quality and risk
-management, team management
-
-
-### Tools, platforms, and applications
-
-- missing
-
-:::
 
 ## Research Methods Summary
 
@@ -701,14 +556,14 @@ Data science research methods and project management competences create new unde
 
 ![](img/wired1.png)
 
-![](img/wired2.png)
+![<https://www.wired.com/story/tech-job-interviews-out-of-control/>](img/wired2.png)
 
 :::
 
 
 ::: {.column}
 
-![](img/wsj-ai.png)
+![<https://www.wsj.com/tech/ai/ai-jobs-demand-tech-layoffs-5b7344c0>](img/wsj-ai.png)
 
 
 :::
@@ -716,9 +571,12 @@ Data science research methods and project management competences create new unde
 ::::
 
 
-## Slide on 70/20/10 model
+## Integrating liberal arts into skilling and expectations
 
-[to be completed]{style="color: red"}
+![<https://www.theatlantic.com/newsletters/archive/2024/03/the-wrong-way-to-study-ai-in-college/677861/>](img/atlantic-ai.png){height="700"}
+
+
+
 
 
 ## Call to action
@@ -750,28 +608,29 @@ What are *you* going to do to help fix this?
 ::: {#refs}
 :::
 
-## Technical Notes (and more skills...)
+## Technical Notes (and more relevant skills...)
 
-- Images generated with the DALLE3 model on Azure OpenAI
-- Content summarization performed by:
+- Images generated with the `DALL·E3` model on [Azure OpenAI](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
+- Content summarization and RAG:
   - Chunking PDFs
   - Embedding with `text-embedding-ada-002`
-  - Using AzureAI hybrid search
+  - Using [Azure AI (hybrid) Search](https://azure.microsoft.com/en-us/products/ai-services/ai-search/)
   - Summarizing with `GPT4`
-- Presentation written in Quarto and rendered as reveal.js and presented in browser
+- Presentation written in [Quarto](https://quarto.org/) and rendered as [`reveal.js`](https://revealjs.com/) and presented in browser
 
 
-## Let's talk about education and industry partnerships! 
+## Let's talk about skilling approaches! 
 
 :::: {.columns}
 
 ::: {.column}
 
-![](img/its-not-easy-being-a-ds.webp)
+![](img/its-not-easy-being-a-ds.webp){width="700"}
 
 :::
 
 ::: {.column}
+<br/>
 
 `marck.vaisman@microsoft.com`
 
@@ -783,12 +642,7 @@ What are *you* going to do to help fix this?
 
 [{{< fa brands twitter >}} wahalulu](http://www.twitter.com/wahalulu)
 
-
-```{r }
-#| echo:false
-plot(qrcode::qr_code("https://wahalulu.github.io/data-council-2024-effective-data-practitioner/"))
-```
-
+{{< qrcode https://wahalulu.github.io/data-council-2024-effective-data-practitioner/ >}}
 :::
 
 ::::
