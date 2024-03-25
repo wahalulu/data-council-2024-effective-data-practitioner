@@ -133,6 +133,30 @@ ALL BY MYSELF
 
 ## Evolution of Data Science and in-demand skills 2008-2024 (graphic not complete)
 
+:::{.incremental}
+- **_In the beginning_ (2008-2012):** `SQL`, `R`, `Python`, `scikit-learn`, `Pandas` 
+- **_Big Data_ (~2010 onwards):** `Hadoop`, `MapReduce`, `Hive`, `Spark` (in 2014)
+- **_Kaggle_ era:** `xgboost`
+- **_Data Product_ era:**
+- **_Deep Learning_ era (~2014 onwards):** NNets, CNNs,  
+- **_MLOps_ era:** `AutoML`, Models as APIs, `MLFlow`
+- **_Cloud_ era:** IAAS, PAAS, SAAS, VMs, networking, security, infra-as-code
+- **_Responsible AI_ era (~2018 onwards):** XAI, Data privacy, Data governance, AI/ML safety
+- **_Generative AI_ era (~2022 onwards):** using LLMs, `langchain`, RAG pattern, building guardrails, prompt engineering, knowledge graphs
+
+
+`Parquet`, `arrow`, `polars`, `d3.js`
+
+Note: all times approximate and somewhat overlapping. Combination of skills and tools.
+:::
+
+
+:::{.fragment}
+**Skills shown at their peak of hotness, and everything is cumulative!**
+:::
+
+## Evolution of Data Science and in-demand skills 2008-2024 (graphic not complete)
+
 [looking to change this to interactive]{style="color: red"}
 
 ![](img/ds-evolution.svg){fig-align="center"}
