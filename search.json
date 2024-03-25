@@ -7,18 +7,18 @@
     "text": "The OG Data Science Cheat Sheet (2010)\n\n\nIn 2010, Drew Conway gave us this - our somewhat reductionist definition of a data unicorn Ah, simpler times: when unicorns roamed free and data practitioners were mythical creatures"
   },
   {
-    "objectID": "index.html#feeling-lonely",
-    "href": "index.html#feeling-lonely",
-    "title": "What Makes for an Effective Data Practitioner in 2024",
-    "section": "Feeling lonely?",
-    "text": "Feeling lonely?\n\n\nALL BY MYSELF\n\n\nyou’re not"
-  },
-  {
     "objectID": "index.html#section",
     "href": "index.html#section",
     "title": "What Makes for an Effective Data Practitioner in 2024",
     "section": "",
-    "text": "Data Businesspeople: especially adept at understanding the business context around their data work, have strong business acumen and are often involved in decision-making processes. They are likely to be involved in generating actionable insights that can influence business strategies.\nData Creatives: the broadest of the data scientist clusters, they are characterized by their strong ability to tackle new problems with innovative solutions. They have a rich skill set that can adapt to various challenges and are often the ones to come up with novel approaches to data analysis.\nData Developers: focused on the technical problem-solving aspects of data science with skills in software engineering and are often responsible for building the infrastructure required for data analysis such as databases, pipelines, and data processing systems.\nData Researchers: originating from academic or research backgrounds, bring a deep understanding of statistics and mathematics to their data science work. They are likely to be involved in developing new algorithms and statistical models.\n\n\n\n(Harris, Murphy, and Vaisman 2013)\n\n\nData Businesspeople: especially adept at understanding the business context around their data work, have strong business acumen and are often involved in decision-making processes. They are likely to be involved in generating actionable insights that can influence business strategies.\nData Creatives: the broadest of the data scientist clusters, they are characterized by their strong ability to tackle new problems with innovative solutions. They have a rich skill set that can adapt to various challenges and are often the ones to come up with novel approaches to data analysis.\nData Developers: focused on the technical problem-solving aspects of data science with skills in software engineering and are often responsible for building the infrastructure required for data analysis such as databases, pipelines, and data processing systems.\nData Researchers: originating from academic or research backgrounds, bring a deep understanding of statistics and mathematics to their data science work. They are likely to be involved in developing new algorithms and statistical models."
+    "text": "ALL BY MYSELF\n\n\n\n14 years later we still struggle to have a decent roadmap and we may feel alone… but you’re not."
+  },
+  {
+    "objectID": "index.html#analyzing-the-analyzers-2012-2013",
+    "href": "index.html#analyzing-the-analyzers-2012-2013",
+    "title": "What Makes for an Effective Data Practitioner in 2024",
+    "section": "Analyzing the Analyzers (2012-2013)",
+    "text": "Analyzing the Analyzers (2012-2013)\n\n\n\n\n\n\nFour personas\n\nData Businesspeople\nData Creatives\nData Developers\nData Researchers\n\n\nFive skill areas\n\nBusiness\nML/Big Data\nMath/OR\nProgramming\nStatistics\n\n\n\n(Harris, Murphy, and Vaisman 2013)\n\n\nData Businesspeople: especially adept at understanding the business context around their data work, have strong business acumen and are often involved in decision-making processes. They are likely to be involved in generating actionable insights that can influence business strategies.\nData Creatives: the broadest of the data scientist clusters, they are characterized by their strong ability to tackle new problems with innovative solutions. They have a rich skill set that can adapt to various challenges and are often the ones to come up with novel approaches to data analysis.\nData Developers: focused on the technical problem-solving aspects of data science with skills in software engineering and are often responsible for building the infrastructure required for data analysis such as databases, pipelines, and data processing systems.\nData Researchers: originating from academic or research backgrounds, bring a deep understanding of statistics and mathematics to their data science work. They are likely to be involved in developing new algorithms and statistical models."
   },
   {
     "objectID": "index.html#skills-evaluated-in-our-survey-in-alphabetical-order",
@@ -28,81 +28,67 @@
     "text": "Skills evaluated in our survey (in alphabetical order)\n\n\n\n\n\nAlgorithms (ex: computational complexity, CS theory)\nBack-End Programming (ex: JAVA/Rails/Objective C)\nBayesian/Monte-Carlo Statistics (ex: MCMC, BUGS)\nBig and Distributed Data (ex: Hadoop, Map/Reduce)\nBusiness (ex: management, business development, budgeting)\nClassical Statistics (ex: general linear model, ANOVA)\nData Manipulation (ex: regexes, R, SAS, web scraping)\nFront-End Programming (ex: JavaScript, HTML, CSS)\nGraphical Models (ex: social networks, Bayes networks)\nMachine Learning (ex: decision trees, neural nets, SVM, clustering)\nMath (ex: linear algebra, real analysis, calculus)\n\n\n\n\n\nOptimization (ex: linear, integer, convex, global)\nProduct Development (ex: design, project management)\nScience (ex: experimental design, technical writing/publishing)\nSimulation (ex: discrete, agent-based, continuous)\nSpatial Statistics (ex: geographic covariates, GIS)\nStructured Data (ex: SQL, JSON, XML)\nSurveys and Marketing (ex: multinomial modeling)\nSystems Administration (ex: *nix, DBA, cloud tech.)\nTemporal Statistics (ex: forecasting, time-series analysis)\nUnstructured Data (ex: noSQL, text mining)\nVisualization (ex: statistical graphics, mapping, web-based dataviz)"
   },
   {
-    "objectID": "index.html#evolution-of-data-science-and-in-demand-skills-2008-2024-graphic-not-complete",
-    "href": "index.html#evolution-of-data-science-and-in-demand-skills-2008-2024-graphic-not-complete",
+    "objectID": "index.html#evolution-of-data-science-and-hot-skills-2008-2024",
+    "href": "index.html#evolution-of-data-science-and-hot-skills-2008-2024",
     "title": "What Makes for an Effective Data Practitioner in 2024",
-    "section": "Evolution of Data Science and in-demand skills 2008-2024 (graphic not complete)",
-    "text": "Evolution of Data Science and in-demand skills 2008-2024 (graphic not complete)\nlooking to change this to interactive"
+    "section": "Evolution of Data Science and hot skills 2008-2024",
+    "text": "Evolution of Data Science and hot skills 2008-2024\n\n\nIn the beginning (2008-2012): SQL, R, Python, scikit-learn, Pandas\nBig Data (~2010 on): Hadoop, MapReduce, Hive, Spark (in 2014)\nKaggle era (2011 on): xgboost\nData Product era: Product Management\nDeep Learning era (~2014 onwards): NNets, CNNs, GANs, CUDA\nMLOps era: AutoML, Models as APIs, MLFlow\nCloud era: IAAS, PAAS, SAAS, VMs, networking, security, infra-as-code\nResponsible AI era (~2018 onwards): XAI, Data privacy, Data governance, AI/ML safety\nGenerative AI era (~2022 onwards): using LLMs, langchain, RAG pattern, building guardrails, prompt engineering, knowledge graphs\n\nNote: all times approximate and somewhat overlapping. Combination of skills and tools.\n\n\nSkills shown at their peak of hotness, and everything is cumulative!"
   },
   {
     "objectID": "index.html#in-2024-the-hard-truth-an-overloaded-definition-and-set-of-expectations-leading-to-the-data-practitioner-brew",
     "href": "index.html#in-2024-the-hard-truth-an-overloaded-definition-and-set-of-expectations-leading-to-the-data-practitioner-brew",
     "title": "What Makes for an Effective Data Practitioner in 2024",
     "section": "In 2024, the hard truth: an overloaded definition and set of expectations leading to the Data Practitioner Brew",
-    "text": "In 2024, the hard truth: an overloaded definition and set of expectations leading to the Data Practitioner Brew\n\n\n\n\n\n\n\nSQL, Python, and a dash or dark magic\n\n\nDALL·E 3 prompt: An ethnically and gender diverse group of at least eight sorcerers standing around a large cauldron labeled “Data Science” acting as if they are throwing stuff in. The cauldron must be visible. The liquid in the cauldron is bubbling and smoke is rising. The smoke cloud is translucid and there it’s just plain"
+    "text": "In 2024, the hard truth: an overloaded definition and set of expectations leading to the Data Practitioner Brew\n\n\n\nDALL·E 3 prompt: An ethnically and gender diverse group of at least eight sorcerers standing around a large cauldron labeled “Data Science” acting as if they are throwing stuff in. The cauldron must be visible. The liquid in the cauldron is bubbling and smoke is rising.\n\n\n\nSQL, Python, and a dash or dark magic"
   },
   {
     "objectID": "index.html#how-it-started-how-its-going",
     "href": "index.html#how-it-started-how-its-going",
     "title": "What Makes for an Effective Data Practitioner in 2024",
     "section": "How it started, how it’s going",
-    "text": "How it started, how it’s going\n\n\n\n\n~2012\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2024\n\n\n\n\n\n\nDALL·E 3 prompt: a developer with eight arms, each typing on a separate macbook laptop where the screen is showing matrix like green text"
+    "text": "How it started, how it’s going\n\n\n\n\n~2012\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2024\n\n\n\nDALL·E 3 prompt: a developer with eight arms, each typing on a separate macbook laptop where the screen is showing matrix like green text"
   },
   {
     "objectID": "index.html#expectations-vs.-reality",
     "href": "index.html#expectations-vs.-reality",
     "title": "What Makes for an Effective Data Practitioner in 2024",
     "section": "Expectations vs. Reality",
-    "text": "Expectations vs. Reality"
+    "text": "Expectations vs. Reality\n\n\n\n\n\nwhile I’m not here to talk about broken hiring in general, I do want to address the elephant in the room"
   },
   {
-    "objectID": "index.html#ooops",
-    "href": "index.html#ooops",
+    "objectID": "index.html#ooops-we-f-up",
+    "href": "index.html#ooops-we-f-up",
     "title": "What Makes for an Effective Data Practitioner in 2024",
-    "section": "ooops!",
-    "text": "ooops!\n\n\n\n\n\n\n\n\n\n\n\n\nwe screwed up somewhere along the way. between new tools, new technologies, not knowing what we actually need, or tryng to blindly follow others we overloaded this thing. We’re all at fault."
+    "section": "Ooops, we f**** up!",
+    "text": "Ooops, we f**** up!\n\n\n\nwe screwed up somewhere along the way. between new tools, new technologies, not knowing what we actually need, or tryng to blindly follow others we overloaded this thing. We’re all at fault."
   },
   {
-    "objectID": "index.html#data-science-is-extremely-complex",
-    "href": "index.html#data-science-is-extremely-complex",
+    "objectID": "index.html#data-science-is-complex",
+    "href": "index.html#data-science-is-complex",
     "title": "What Makes for an Effective Data Practitioner in 2024",
-    "section": "Data Science is extremely complex",
-    "text": "Data Science is extremely complex\nData Science can be considered a:\n\nScience: Data science is viewed as a continuation of empirical science, which has always been centered around data, with historical examples like Kepler’s use of data to prove Copernicus’ theory.\nResearch Paradigm: It represents a shift in research methodology, moving from a deductive approach to a more inductive approach due to the abundance of data and computational resources.\nResearch Method: Data science is used to discover new concepts, measure their prevalence, assess causal effects, and make predictions, transforming the research process.\nDiscipline: The field is inherently interdisciplinary, integrating knowledge from domains such as computer science, mathematics, statistics, and specific application domains.\nWorkflow: It involves a series of steps including data collection, exploratory data analysis, modeling, and communication of results.\nProfession: The multifaceted nature of data science work includes aspects of science, engineering, mathematics, statistics, and domain expertise, making it a distinct professional field.\n\n(Hazzan and Mike 2023)\n\nI’m not planning on defining something that is hard to define. Look at all the possibilities. It’s an amazing field and it’s really great to be a part of it and we can do better."
+    "section": "Data Science is complex",
+    "text": "Data Science is complex\n\n\nMultiple and not mutually-exclusive definitions\n\n\nScience\nResearch paradigm\nResearch method\nWorkflow\nProfession\n\n\n\n\n\nMastering it’s broadness is extremely difficult and needs time\n\n\n\n\n\n\n\n\n(Hazzan and Mike 2023)\n\nI’m not planning on defining something that is hard to define. Look at all the possibilities. It’s an amazing field and it’s really great to be a part of it and we can do better."
   },
   {
-    "objectID": "index.html#mastering-its-broadness-is-extremely-difficult-and-needs-time",
-    "href": "index.html#mastering-its-broadness-is-extremely-difficult-and-needs-time",
+    "objectID": "index.html#and-teaching-it-is-even-harder",
+    "href": "index.html#and-teaching-it-is-even-harder",
     "title": "What Makes for an Effective Data Practitioner in 2024",
-    "section": "Mastering it’s broadness is extremely difficult and needs time",
-    "text": "Mastering it’s broadness is extremely difficult and needs time"
+    "section": "… and teaching it is even harder!",
+    "text": "… and teaching it is even harder!\n\n\n\n\n\nDALL·E 3 prompt: a lecturer standing in the front of the room facing tells a classroom full of students that are working on laptops to “open the command line” and the students have and puzzled, surprised and nervous reactions\n\n\n\n\nChallenges\n\nBroad Discipline\nComplex Topics\nVariety of Thinking Skills\nSpecial Professional and Organizational Skills\nEducators’ Background\n\n(Hazzan and Mike 2023)\n\n\n\n\nAnecdotes: - teaching big data hadoop beginning with command line - teaching data viz - restructure curriculums to make them a continuous flow that builds on one another"
   },
   {
-    "objectID": "index.html#and-teaching-is-even-harder",
-    "href": "index.html#and-teaching-is-even-harder",
+    "objectID": "index.html#so-wwdsd",
+    "href": "index.html#so-wwdsd",
     "title": "What Makes for an Effective Data Practitioner in 2024",
-    "section": "And teaching is even harder!",
-    "text": "And teaching is even harder!\n\n\n\n\nChallenges\n\nBroad Discipline: Data science encompasses a very broad discipline with a large body of knowledge, making it difficult to cover all necessary topics comprehensively.\nComplex Topics: It contains complex topics such as machine learning algorithms, which require a deep understanding of mathematics and theoretical concepts.\nVariety of Thinking Skills: Data science education requires a variety of thinking skills, including interdisciplinary thinking, computational thinking, and statistical thinking.\nSpecial Professional and Organizational Skills: Beyond technical skills, data science also requires special professional skills such as teamwork, storytelling, and ethical behavior.\nEducators’ Background: Many data science educators may not be data science majors themselves but may come from one of the disciplines that intersect to create data science, such as mathematics, statistics, computer science, or a specific application domain.\n\n(Hazzan and Mike 2023)\n\n\n\n\nAnecdotes: - teaching big data hadoop beginning with command line - teaching data viz - restructure curriculums to make them a continuous flow that builds on one another\n\n\nDALL·E 3 prompt: a lecturer standing in the front of the room facing tells a classroom full of students that are working on laptops to “open the command line” and the students have and puzzled, surprised and nervous reactions"
-  },
-  {
-    "objectID": "index.html#wwdsd",
-    "href": "index.html#wwdsd",
-    "title": "What Makes for an Effective Data Practitioner in 2024",
-    "section": "WWDSD?",
-    "text": "WWDSD?\n\nWhat would a Data Scientist do? #askingforafriend\n\n\n\nHow would you approach coming up with a roadmap?"
+    "section": "So, WWDSD?",
+    "text": "So, WWDSD?\n\n\n\nWhat would a Data Scientist do? #askingforafriend\n\n\n\n\n\nWhat?\n\nPreliminary research\nCollect/compile data\nProcess data\nAnalyze/summarize/model data\nPresent results\n\n\n\n\nHow\n\nUse generative AI to help, duh!\n\n\n\n\n\nHow would you approach coming up with a roadmap?"
   },
   {
     "objectID": "index.html#the-work-we-did-in-2013-has-over-146-citations-over-the-last-10-years",
     "href": "index.html#the-work-we-did-in-2013-has-over-146-citations-over-the-last-10-years",
     "title": "What Makes for an Effective Data Practitioner in 2024",
     "section": "The work we did in 2013 has over 146 citations over the last 10 years",
-    "text": "The work we did in 2013 has over 146 citations over the last 10 years\n\n\nStarted looking thgough the publications that referenced us and found a large body of work that"
-  },
-  {
-    "objectID": "index.html#prior-work-on-academic-models-for-skills-and-competencies-for-data-science",
-    "href": "index.html#prior-work-on-academic-models-for-skills-and-competencies-for-data-science",
-    "title": "What Makes for an Effective Data Practitioner in 2024",
-    "section": "Prior work on academic models for skills and competencies for Data Science",
-    "text": "Prior work on academic models for skills and competencies for Data Science\n\nEDISON Data Science Framework (EDSF): This framework includes a Competency Framework for Data Science (CF-DS) and a defined body of knowledge (DS-BoK). The CF-DS is developed around five major knowledge area groups: Data Analytics, Data Science Engineering, Data Management, Research Methods and Project Management, and Domain Related Competencies and Business Analytics Competencies. These areas define the explicit skills and knowledge that exemplify competence in data science.\nAIS IS 2010 Curriculum Guidelines: This curriculum is designed to educate and prepare graduates to enter the workforce by equipping them with knowledge and skills in three categories: IS-specific knowledge and skills, foundational knowledge and skills, and domain fundamentals. The “IS 2010” report is a collaborative effort between the Association for Computing Machinery (ACM) and the Association for Information Systems (AIS).\nBusiness Higher Education Forum (BHEF) Data Science and Analytics Competency Map: This map lists Data Science concepts and principles tiered into when and where these concepts are learned.\nACM and IDASS Competencies: These documents provide a high-level list of competencies that undergraduate Data Science students should learn, with competencies directly comparable to EDISON’s CF-DS.\nPark City Math Institute Curriculum Guidelines for Undergraduate Programs in Data Science: This guideline does not elaborate on how to integrate the application domains knowledge into the curriculum but recognizes the importance of domain-related knowledge for practical work of a Data Scientist.\n\n(Schmitt et al. 2023; Weiser et al. 2022; Hazzan and Mike 2023)"
+    "text": "The work we did in 2013 has over 146 citations over the last 10 years\n\n\n\nPrior work on data science skills and competencies\n\nEDISON Data Science Framework (EDSF)\nAIS IS 2010 Curriculum Guidelines\nBusiness Higher Education Forum (BHEF) Data Science and Analytics Competency Map\nACM and IDASS Competencies\nPark City Math Institute Curriculum Guidelines for Undergraduate Programs in Data Science\n\n\n(Schmitt et al. 2023; Weiser et al. 2022; Hazzan and Mike 2023)\n\nStarted looking thgough the publications that referenced us and found a large body of work that"
   },
   {
     "objectID": "index.html#section-5",
@@ -112,129 +98,115 @@
     "text": "we need to be careful,we need a collective standard not one more, but using this as a framework for presenting skills"
   },
   {
-    "objectID": "index.html#section-6",
-    "href": "index.html#section-6",
+    "objectID": "index.html#the-ability-to-do-a-task-combines-skills-competencies-and-knowledge",
+    "href": "index.html#the-ability-to-do-a-task-combines-skills-competencies-and-knowledge",
     "title": "What Makes for an Effective Data Practitioner in 2024",
-    "section": "",
-    "text": "Skills\nThe difference between a skill and a competency is often related to the scope and integration of knowledge, abilities, and behaviors. A skill is typically understood as a specific learned activity that can be performed, often something that can be developed through practice. Competencies, on the other hand, are broader and include a combination of skills, knowledge, and attributes that enable someone to perform effectively in a job or situation 1 .\n\n\nCompetencies\nCompetencies are often described as more holistic, encompassing not just the ability to perform a task (skill) but also the understanding (knowledge) and the appropriate application (attributes) of that skill in various contexts. They reflect a person’s capability to apply or use a set of related knowledge, skills, and abilities required to successfully perform “critical work functions” or tasks in a defined work setting 1 .\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Weiser et al. 2022)\n\nIn summary, while skills are specific to certain tasks, competencies are more comprehensive and relate to the overall ability to perform a job effectively, which includes a combination of multiple skills, the knowledge of when and how to use them, and the attitude or behavior to perform them successfully."
+    "section": "The ability to do a task combines skills, competencies, and knowledge",
+    "text": "The ability to do a task combines skills, competencies, and knowledge\n\nCuadrado-Gallego and Demchenko (2020)\n\nIn summary, while skills are specific to certain tasks, competencies are more comprehensive and relate to the overall ability to perform a job effectively, which includes a combination of multiple skills, the knowledge of when and how to use them, and the attitude or behavior to perform them successfully."
   },
   {
-    "objectID": "index.html#thinking-models",
-    "href": "index.html#thinking-models",
+    "objectID": "index.html#to-be-effective-its-much-more-than-an-a-la-carte-menu",
+    "href": "index.html#to-be-effective-its-much-more-than-an-a-la-carte-menu",
     "title": "What Makes for an Effective Data Practitioner in 2024",
-    "section": "Thinking models",
-    "text": "Thinking models\n\n\n\nComputational\n\nCognitive Ability: It is a problem-solving process that involves designing solutions to be implemented by a person, a computer, or both.\nIndependent of Technology: Its implementation is not dependent on technology.\n\nKey Skills and Processes: These include problem formulation, dividing a problem into sub-problems, organizing and logically analyzing data, representing data with models and simulations using abstraction, suggesting and assessing solutions, examining and implementing the chosen solution, and generalizing the solution to a range of problems.\n\nSocial Skills: Teamwork, time management, and planning and scheduling tasks are also part of computational thinking.\n\nBroad Knowledge: Emphasizes the acquisition of multidisciplinary knowledge and skills that can be applied in various contexts.\n\n\n\nStatistical\n\nUnderstanding of Data: Involves an understanding of the essence, characteristics, and variability of real-life data.\n\nStatistical Inquiry: Covers the entire process of statistical inquiry, from data collection to analysis and interpretation.\n\nUse of Statistical Methods: Addresses when and how to use specific statistical data analysis methods.\n\nSampling and Inference: Refers to the nature of sampling and how to infer from samples to populations.\n\nStatistical Models: Includes the use of statistical models and their application.\n\nContextual Analysis: Considers the context of a given problem when performing investigations and drawing conclusions.\n\n\n\n\n\nMathematical\n\nMathematical Foundations: A core competence for data science graduates, involving a deep understanding of mathematical principles.\n\nModel Building and Assessment: Skills in constructing and evaluating mathematical models relevant to data science.\n\n\n\nApplication Domain\n\nDomain-Specific Knowledge: Understanding the core principles and ethical considerations within a specific application domain.\n\nData Curation: Involves managing and organizing data relevant to the domain.\n\nKnowledge Transference: Communication and responsibility in transferring domain-specific insights.\n\n\n\nData\n\nAnalytical Thinking: Combines computational and statistical thinking to analyze data effectively.\n\nAlgorithms and Software Foundation: Knowledge of algorithms and software relevant to data science.\n\nData Curation Skills: Involves the ability to curate and manage data efficiently.\n\nCommunication and Responsibility: Skills in communicating findings and understanding the implications of data analysis.\n\n\n\n\n(Hazzan and Mike 2023; Adhikari and Jordan 2021)"
+    "section": "To be effective, it’s much more than an a-la-carte menu",
+    "text": "To be effective, it’s much more than an a-la-carte menu\n\n\n\n\n\n(Weiser et al. 2022; Hamutcu and Fayyad 2020; Fayyad and Hamutcu 2022; Hazzan and Mike 2023; Adhikari and Jordan 2021; Cuadrado-Gallego and Demchenko 2020)"
   },
   {
-    "objectID": "index.html#proposed-skills-model-graphic-not-complete",
-    "href": "index.html#proposed-skills-model-graphic-not-complete",
+    "objectID": "index.html#base-data-competencies",
+    "href": "index.html#base-data-competencies",
     "title": "What Makes for an Effective Data Practitioner in 2024",
-    "section": "Proposed skills model (graphic not complete)",
-    "text": "Proposed skills model (graphic not complete)\n\n\n\n\n\n(Weiser et al. 2022; Hamutcu and Fayyad 2020; Fayyad and Hamutcu 2022; Hazzan and Mike 2023; Adhikari and Jordan 2021; Cuadrado-Gallego and Demchenko 2023)"
+    "section": "Base Data Competencies",
+    "text": "Base Data Competencies\n\n\n\nData Literacy\n\nRead, understand, use, and communicate data effectively\nCapacity to interpret and analyze data\nCompetence to create knowledge from data\nProficiency to communicate insights derived from data to others\n\n\nData Wrangling\n\nWork with structured and unstructured data stored in multiple formats (delimited, json, binary) and systems (databases, distributed, apis, cloud)\n\nAcquire (from raw)\nAdequately combine and manipulate the data to produce analytical datasets\n\nIdentify implicit and explicit missing data\n\n\nComputational/Programming\n\nDon’t repeat yourself\nWrite modular code\nMetaprogramming\nRun a script/program unattended\nInterface with multiple systems\nSetup, manage, and troubleshoot computational environment\n\n\nData Visualization\n\nAbility to present data effectively to the right audience\nStorytelling"
   },
   {
-    "objectID": "index.html#data-analytics",
-    "href": "index.html#data-analytics",
+    "objectID": "index.html#st-century-competencies",
+    "href": "index.html#st-century-competencies",
     "title": "What Makes for an Effective Data Practitioner in 2024",
-    "section": "Data Analytics",
-    "text": "Data Analytics\nmost likely remove\n\n\n\nMain competency group (task)\n\nEffectively use variety of data analytics techniques, such as machine learning (including supervised, unsupervised, semi-supervised learning), data mining, prescriptive and predictive analytics, for complex data analysis through the whole data life cycle\nApply designated quantitative techniques, including statistics, time series analysis, optimisation and simulation to deploy appropriate models for analysis and prediction\nIdentify, extract and pull together available and pertinent heteroge- neous data, including modern data sources such as social media data, open data, governmental data, verify data quality\nUnderstand and use different performance and accuracy metrics for model validation in analytics projects, hypothesis testing and information retrieval\nDevelop required data analytics for organisational tasks, integrate data analytics and processing applications into organisation workflow and business processes to enable agile decision-making\nVisualise results of data analysis, design dashboard and use storytelling methods\n\n\n\nSkills (technique)\n\nUse machine learning technology, algorithms, tools, including supervised, unsupervised or reinforced learning\nUse data mining techniques\nUse text data mining techniques\nGeneral statistical analysis methods and techniques, descriptive analytics\nUse quantitative analytics methods\nUse qualitative analytics methods\nApply predictive analytics methods\nApply prescriptive analytics methods\nUse graph data analytics for organisational network analysis, cus- tomer relations, other tasks\nApply analytics and statistics methods for data preparation and preprocessing\nBe able to use performance and accuracy metrics for data analytics assessment and validation\nUse effective visualisation and storytelling methods to create dash- boards and data analytics reports\nUse natural language processing methods\nOperations research\nOptimisation\nSimulation\n\n\n\nKnowledge\n\nMachine learning supervised: decision trees, naïve Bayes classifi- cation, ordinary least square regression, logistic regression, neural networks, SVM (support vector machine), ensemble methods, others\nMachine learning unsupervised: clustering algorithms, principal component analysis (PCA), singular value decomposition (SVD), independent component analysis (ICA)\nMachine learning (reinforced): Q-learning, TD-learning, genetic algorithms)\nData mining (text mining, anomaly detection, regression, time series, classification, feature selection, association, clustering)\nText data mining: statistical methods, NLP, feature selection, a priori algorithm, etc.\nGeneral statistical analysis methods and techniques, descriptive analytics\nQuantitative analytics\nQualitative analytics\nPredictive analytics\nPrescriptive analytics\nGraph data analytics: path analysis, connectivity analysis, community analysis, centrality analysis, sub-graph isomorphism, etc.\nNatural language processing\nData preparation and preprocessing\n\n\n\nTools, platforms, and applications\n\nR and data analytics libraries (cran, ggplot2, dplyr, reshap2, etc.)\nPython and data analytics libraries (pandas, numpy, mathplotlib, scipy, scikit-learn, seaborn, etc.)\nSAS\nJulia\nIBM SPSS\nOther Statistical computing and languages (WEKA, KNIME, Scala, Stata, Orange, etc)\nScripting language, e.g. Octave, PHP, Pig, others\nMatlab Data Analytics\nAnalytics tools (R/R Studio, Python/Anaconda, SPSS, Matlab, etc)\nData Mining tools: RapidMiner, Orange, R, WEKA, NLTK, others\nExcel Data Analytics (Analysis ToolPack, PivotTables, etc)"
+    "section": "21st Century Competencies",
+    "text": "21st Century Competencies\n\n\n\nCognitive: Involves reasoning and memory, and includes competencies such as analysis, problem solving, scientific literacy, and creativity.\nIntrapersonal: Deals with the capacity to manage one’s behavior and emotions to achieve one’s goals. It includes competencies such as perseverance, adaptability, flexibility, self-direction, and the ability to cope with uncertainty.\nInterpersonal: Includes competencies, such as communication and collaboration, which are used to express information to others, to interpret others’ messages, and to respond appropriately. It involves expressing ideas and interpreting and responding to messages from others.\nEthics: The integration of ethical and social issues into all areas of computer science and, by extension, data science.\nDecision Intelligence: encompasses the processes, tools, and practices that enable organizations to make informed decisions based on data analysis and modelling."
   },
   {
-    "objectID": "index.html#data-analytics-summary",
-    "href": "index.html#data-analytics-summary",
+    "objectID": "index.html#data-analytics-competencies",
+    "href": "index.html#data-analytics-competencies",
     "title": "What Makes for an Effective Data Practitioner in 2024",
-    "section": "Data Analytics Summary",
-    "text": "Data Analytics Summary\nData analytics competences deal with the use of appropriate data analytics and statistical techniques on available data to discover new relations and deliver insights into research problem or organisational processes and support decision-making and cover extensive skills related to using different machine learning, data mining, statistical methods and algorithms.\n\nStatistical Methods: This includes descriptive statistics, exploratory data analysis (EDA) for discovering new features in the data, and confirmatory data analysis (CDA) for hypothesis testing.\nMachine Learning: Encompasses methods for information search, image recognition, decision support, and classification.\nData Mining: Focuses on modeling and knowledge discovery for predictive rather than purely descriptive purposes.\nText Analytics: Involves extracting and classifying information from textual sources using statistical, linguistic, and structural techniques.\nPredictive Analytics: Centers on the application of statistical models for predictive forecasting or classification.\nBusiness Analytics: Covers data analysis that relies heavily on aggregation, involving various data sources to focus on business information 2 .\nComputational Modeling, Simulation, and Optimization: Pertains to methods used for computational modeling, simulation, and optimization ."
+    "section": "Data Analytics Competencies",
+    "text": "Data Analytics Competencies\n\n\n\nStatistical Methods: descriptive statistics, exploratory data analysis (EDA) for discovering new features in the data, and confirmatory data analysis (CDA) for hypothesis testing.\nMachine Learning: methods for information search, image recognition, decision support, and classification.\nData Mining: modeling and knowledge discovery for predictive rather than purely descriptive purposes.\nText Analytics: Extracting and classifying information from textual sources using statistical, linguistic, and structural techniques.\nPredictive Analytics: Application of statistical models for predictive forecasting or classification.\nBusiness Analytics: Covers data analysis that relies heavily on aggregation, involving various data sources to focus on business information.\nComputational Modeling, Simulation, and Optimization: Pertains to methods used for computational modeling, simulation, and optimization."
   },
   {
-    "objectID": "index.html#data-engineering",
-    "href": "index.html#data-engineering",
+    "objectID": "index.html#data-engineering-competencies",
+    "href": "index.html#data-engineering-competencies",
     "title": "What Makes for an Effective Data Practitioner in 2024",
-    "section": "Data Engineering",
-    "text": "Data Engineering\nmost likely remove\n\n\n\nMain competency group (task)\n\nUse engineering principles (general and software) to research, design, develop and implement new instruments and applications for data collection, storage, analysis and visualisation\nDevelop and apply computational and data-driven solutions to domain-related problems using a wide range of data analytics platforms, with the special focus on big data technologies for large datasets and cloud-based data analytics platforms\nDevelop and prototype specialised data analysis applications, tools and supporting infrastructures for data-driven scientific, business or organisational workflow; use distributed, parallel, batch and streaming processing platforms, including online and cloud-based solutions for on-demand provisioned and scalable services\nDevelop, deploy and operate large-scale data storage and processing solutions using different distributed and cloud-based platforms for storing data (e.g. Data Lakes, Hadoop, HBase, Cassandra, MongoDB, Accumulo, DynamoDB, others)\nConsistently apply data security mechanisms and controls at each stage of the data processing, including data anonymisation, privacy and IPR protection\nDesign, build, operate relational and non-relational databases (SQL and NoSQL), integrate them with the modern data warehouse solutions, ensure effective ETL (extract, transform, load), OLTP, OLAP processes for large datasets\n\n\n\nSkills (technique)\n\nUse systems and software engineering principles to organisations information system design and development, including requirements design\nUse cloud computing technologies and cloud-powered services design for data infrastructure and data handling services\nUse cloud-based big data technologies for large datasets processing systems and applications\nUse agile development technologies, such as DevOps and contin- uous improvement cycle, for data-driven applications\nDevelop and implement systems and data security, data access, including data anonymisation, federated access control systems\nApply compliance-based security models, in particular for privacy and IPR protection\nUse relational, non-relational databases (SQL and NoSQL), data warehouse solutions, ETL (extract, transform, load), OLTP, OLAP processes for structured and unstructured data\nEffectively use big data infrastructures, high-performance net- works, infrastructure and services management and operation\nUse and apply modelling and simulation technologies and systems\nUse and integrate with the organisational information systems, collaborative system\nDesign efficient algorithms for accessing and analysing large amounts of data, including API to different databases and datasets\nUse of recommender or ranking system\n\n\n\nKnowledge\n\nSystems engineering and software engineering principles, methods and models, distributed systems design and organisation\nCloud computing, cloud-based services and cloud-powered ser- vices design\nBig data technologies for large datasets processing: batch, parallel, streaming systems, in particular cloud based\nApplications software requirements engineering and design, agile development technologies, DevOps and continuous improvement cycle\nSystems and data security, data access, including data anonymisation, federated access control systems\nCompliance-based security models, privacy and IPR protection\nRelational, non-relational databases (SQL and NoSQL), data warehouse solutions, ETL (extract, transform, load), OLTP, OLAP processes for large datasets\nBig data infrastructures, high-performance networks, infrastruc- ture and services management and operation\nModelling and simulation, theory and systems\nInformation systems, collaborative systems\n\n\n\nTools, platforms, and applications\n\nmissing"
+    "section": "Data Engineering Competencies",
+    "text": "Data Engineering Competencies\n\n\nThe application of engineering principles and modern computer technologies to design, implement, and manage data analytics applications and infrastructures throughout the data lifecycle:\n\nUtilize engineering principles to research, design, develop, and implement new instruments and applications for data collection, storage, analysis, and visualization.\nDevelop and apply computational and data-driven solutions to domain-related problems using a wide range of data analytics platforms, focusing on big data technologies for large datasets and cloud-based data analytics platforms.\nDevelop and prototype specialized data analysis applications, tools, and supporting infrastructures for data-driven scientific, business, or organizational workflow; use distributed, parallel, batch, and streaming processing platforms, including online and cloud-based solutions.\nDevelop, deploy, and operate large-scale data storage and processing solutions using different distributed and cloud-based platforms for storing data (e.g., Data Lakes, Hadoop, HBase, Cassandra, MongoDB, Accumulo, DynamoDB, etc.).\n\n(Cuadrado-Gallego and Demchenko 2020)"
   },
   {
-    "objectID": "index.html#data-engineering-summary",
-    "href": "index.html#data-engineering-summary",
+    "objectID": "index.html#data-management-competencies",
+    "href": "index.html#data-management-competencies",
     "title": "What Makes for an Effective Data Practitioner in 2024",
-    "section": "Data Engineering Summary",
-    "text": "Data Engineering Summary\nData science engineering competences deal with the use of engineering principles and modern computer technologies to research, design, implement new data analyt- ics applications; develop experiments, processes, instruments, systems, infrastruc- tures to support data handling during the whole data life cycle.\nThe competences involve the application of engineering principles and modern computer technologies to design, implement, and manage data analytics applications and infrastructures throughout the data lifecycle 1 .\nHere is a summary of the competences identified in the DSDEG section:\n\nUtilize engineering principles to research, design, develop, and implement new instruments and applications for data collection, storage, analysis, and visualization.\nDevelop and apply computational and data-driven solutions to domain-related problems using a wide range of data analytics platforms, focusing on big data technologies for large datasets and cloud-based data analytics platforms.\nDevelop and prototype specialized data analysis applications, tools, and supporting infrastructures for data-driven scientific, business, or organizational workflow; use distributed, parallel, batch, and streaming processing platforms, including online and cloud-based solutions.\nDevelop, deploy, and operate large-scale data storage and processing solutions using different distributed and cloud-based platforms for storing data (e.g., Data Lakes, Hadoop, HBase, Cassandra, MongoDB, Accumulo, DynamoDB, etc.)."
-  },
-  {
-    "objectID": "index.html#data-management-skillscompetenciesknowledge",
-    "href": "index.html#data-management-skillscompetenciesknowledge",
-    "title": "What Makes for an Effective Data Practitioner in 2024",
-    "section": "Data Management Skills/Competencies/Knowledge",
-    "text": "Data Management Skills/Competencies/Knowledge\nmost likely remove\n\n\n\nMain competency group (task)\n\nDevelop and implement data strategy, in particular, in the form of data management policy and data management plan (DMP)\nDevelop and implement relevant data models, define metadata using common standards and practices, for different data sources in a variety of scientific and industry domains\nIntegrate heterogeneous data from multiple source and provide them for further analysis and use\nMaintain historical information on data handling, including reference to published data and corresponding data sources (data provenance)\nEnsure data quality, accessibility, interoperability, compliance to standards and publication (data curation)\nDevelop and manage/supervise policies on data protection, privacy, intellectual property Rights, IPR and ethical issues in data management\n\n\n\nSkills (technique)\nSpecify, develop and implement enterprise data management and data governance strategy and architecture, including data management plan (DMP) 2. Data storage systems, data archive services, digital libraries and their operational models . Define requirements to and supervise implementation of the hybrid data management infrastructure, including enterprise private and public cloud resources and services 4. Develop and implement data architecture, data types and data for- mats, data modelling and design, including related technologies (ETL, OLAP, OLTP, etc.) 5. Implement data lifecycle support in organisational workflow, support data provenance and linked data 6. Consistently implement data curation and data quality controls, ensure data integration and interoperability 7. Implement data protection, backup, privacy, mechanisms/services, comply with IPR, ethics and responsible data use 8. Use and implement metadata, PID, data registries, data factories, standards and compliance 9. Adhere to the principles of the open data, open science, open access, use ORCID-based services\n\n\nKnowledge\nData management and enterprise data infrastructure, private and public data storage systems and services 2. Data storage systems, data archive services, digital libraries and their operational models 3. Data governance, data governance strategy, data management plan (DMP) 4. Data architecture, data types and data formats, data modelling and design, including related technologies (ETL, OLAP, OLTP, etc.) 5. Data lifecycle and organisational workflow, data provenance and linked data 6. Data curation and data quality, data integration and interoperability 7. Data protection, backup, privacy, IPR, ethics and responsible data use 8. Metadata, PID, data registries, data factories, standards and compliance 9. Open data, open science, research data archives/repositories, open access, ORCID\n\n\nTools, platforms, and applications\n\nmissing"
-  },
-  {
-    "objectID": "index.html#data-management-summary",
-    "href": "index.html#data-management-summary",
-    "title": "What Makes for an Effective Data Practitioner in 2024",
-    "section": "Data Management Summary",
-    "text": "Data Management Summary\nData science management and governance competences deal with develop and implement data management strategy for data collection, storage, preservation and availability for further processing.\nThe section labeled 2.2.4 Data Management Competences, Skills and Knowledge (DSDM) in the document by Cuadrado-Gallego and Demchenko (2020) outlines the competencies required for data management within the field of data science. The competences involve the development and implementation of strategies and systems for managing data throughout its lifecycle, ensuring its quality, accessibility, and compliance with standards 1 .\nHere is a summary of the competences identified in the DSDM section:\n\nDevelop and implement data strategy, particularly in the form of data management policy and data management plan (DMP).\nDevelop and implement relevant data models, define metadata using common standards and practices, for different data sources in a variety of scientific and industry domains 1 .\nIntegrate heterogeneous data from multiple sources and provide them for further analysis and use 1 .\nMaintain historical information on data handling, including reference to published data and corresponding data sources (data provenance) 1 .\nEnsure data quality, accessibility, interoperability, compliance to standards, and publication (data curation) 1 ."
-  },
-  {
-    "objectID": "index.html#research-methods-and-project-management",
-    "href": "index.html#research-methods-and-project-management",
-    "title": "What Makes for an Effective Data Practitioner in 2024",
-    "section": "Research Methods and Project Management",
-    "text": "Research Methods and Project Management\nmost likely remove\nMain competency group (task)\nData science research methods and project management competences create new understandings and capabilities by using the scientific method (hypothesis, test/ artefact, evaluation) or similar engineering methods to discover new approaches to create new knowledge and achieve research or organisational goals.\n\nCreate new understandings by using the research methods (including hypothesis, artefact/experiment, evaluation) or similar engineering research and development methods\nDirect systematic study towards understanding of the observable facts, and discover new approaches to achieve research or organisational goals\nAnalyse domain-related research process model, identify and analyse available data to identify research questions and/or organisational objectives and formulate sound hypothesis\nUndertake creative work, making systematic use of investigation or experimentation, to discover or revise knowledge of reality, and use this knowl- edge to devise new applications, contribute to the development of organisational objectives\nDesign experiments which include data collection (passive and active) for hypothesis testing and problem-solving\nDevelop and guide data-driven projects, including project planning, experiment design, data collection and handling.\n\nSkills (technique)\n\nUse research methods principles in developing data-driven appli- cations and implementing the whole cycle of data handling\nDesign experiment, develop and implement data collection process\nApply data lifecycle management model to data collection and data quality evaluation\nApply structured approach to use case analysis\nDevelop and implement research data management plan (DMP), apply data stewardship procedures\nConsistently apply project management workflow: scope, planning, assessment, quality and risk management, team management\n\nKnowledge\n\nResearch methods, research cycle, hypothesis definition and testing\nExperiment design, modelling and planning\nData life cycle and data collection, data quality evaluation\nUse case analysis: research infrastructure and projects\nResearch data management plan (DMP) and data stewardship\nResearch data management plan (DMP) and data stewardship\nProject management: scope, planning, assessment, quality and risk management, team management\n\nTools, platforms, and applications\n\nmissing\n\n:::"
+    "section": "Data Management Competencies",
+    "text": "Data Management Competencies\n\n\n\nDevelop and implement data strategy, particularly in the form of data management policy and data management plan (DMP).\nDevelop and implement relevant data models, define metadata using common standards and practices, for different data sources in a variety of scientific and industry domains.\nIntegrate heterogeneous data from multiple sources and provide them for further analysis and use.\nMaintain historical information on data handling, including reference to published data and corresponding data sources (data provenance).\nEnsure data quality, accessibility, interoperability, compliance to standards, and publication (data curation).\n\n(Cuadrado-Gallego and Demchenko 2020)"
   },
   {
     "objectID": "index.html#research-methods-summary",
     "href": "index.html#research-methods-summary",
     "title": "What Makes for an Effective Data Practitioner in 2024",
     "section": "Research Methods Summary",
-    "text": "Research Methods Summary\nneeds to be completed\nData science research methods and project management competences create new understandings and capabilities by using the scientific method (hypothesis, test/ artefact, evaluation) or similar engineering methods to discover new approaches to create new knowledge and achieve research or organisational goals.\n\nmissing"
+    "text": "Research Methods Summary\n\n\n\nUnderstand and apply research methods and techniques that distinguish the data scientist profession from other fields.\nDesign experiments, including data collection, for hypothesis testing and problem-solving.\nDevelop and guide data-driven projects, encompassing project planning, experiment design, data collection, and handling.\nDevelop and implement research data management plans (DMP), and apply data stewardship procedures 1 .\nConsistently apply project management workflows, including scope, planning, assessment, quality and risk management, and team management.\n\n(Cuadrado-Gallego and Demchenko 2020)"
   },
   {
-    "objectID": "index.html#whats-missing-from-edison",
-    "href": "index.html#whats-missing-from-edison",
+    "objectID": "index.html#generative-ai-and-other-competencies",
+    "href": "index.html#generative-ai-and-other-competencies",
     "title": "What Makes for an Effective Data Practitioner in 2024",
-    "section": "What’s missing from EDISON?",
-    "text": "What’s missing from EDISON?\nneeds to be completed\n\nGenerative AI\nMLOps\nDevOps"
+    "section": "Generative AI and other Competencies",
+    "text": "Generative AI and other Competencies"
+  },
+  {
+    "objectID": "index.html#higher-level-thinking",
+    "href": "index.html#higher-level-thinking",
+    "title": "What Makes for an Effective Data Practitioner in 2024",
+    "section": "Higher level thinking!",
+    "text": "Higher level thinking!\n\nData thinking integrates computational thinking, statistical thinking, and domain thinking.\nComputational thinking is a set of cognitive and social skills applied in problem-solving processes that are important for everyone, not just computer scientists. It includes skills such as problem formulation, decomposition, organization, and logical analysis of data, and is recognized as a key 21st-century skill.\nStatistical thinking involves the logical and statistical analysis of data, using visualizations and statistical methods to identify patterns and anomalies. It emphasizes the importance of preserving the meaning derived from the domain knowledge when performing any process or calculation on data.\nDomain thinking refers to the understanding and application of domain-specific knowledge in the context of data science. It involves the integration of computational and statistical thinking with the knowledge and context of a particular domain, such as social science or medicine, to improve computational models and domain understanding.\nTogether, these modes of thinking are essential components of data thinking, which is the integrated skill set needed to work effectively with data science. Data thinking treats algorithms and data equally, combining computational thinking, statistical thinking, mathematical conceptions, and context-based thinking associated with the application domain.\n(Hazzan and Mike 2023; Adhikari and Jordan 2021)"
   },
   {
     "objectID": "index.html#here-we-go-again",
     "href": "index.html#here-we-go-again",
     "title": "What Makes for an Effective Data Practitioner in 2024",
     "section": "Here we go again…",
-    "text": "Here we go again…"
+    "text": "Here we go again…\n\n\n\n\n\n\nhttps://www.wired.com/story/tech-job-interviews-out-of-control/\n\n\n\n\n\n\nhttps://www.wsj.com/tech/ai/ai-jobs-demand-tech-layoffs-5b7344c0"
   },
   {
-    "objectID": "index.html#slide-on-702010-model",
-    "href": "index.html#slide-on-702010-model",
+    "objectID": "index.html#integrating-liberal-arts-into-skilling-and-expectations",
+    "href": "index.html#integrating-liberal-arts-into-skilling-and-expectations",
     "title": "What Makes for an Effective Data Practitioner in 2024",
-    "section": "Slide on 70/20/10 model",
-    "text": "Slide on 70/20/10 model\nto be completed"
+    "section": "Integrating liberal arts into skilling and expectations",
+    "text": "Integrating liberal arts into skilling and expectations\n\n\n\n\n\n\nhttps://www.theatlantic.com/newsletters/archive/2024/03/the-wrong-way-to-study-ai-in-college/677861/\n\n\n\n\n\n\n\nhttps://www.theatlantic.com/technology/archive/2024/03/computing-college-cs-majors/677792/"
   },
   {
     "objectID": "index.html#call-to-action",
     "href": "index.html#call-to-action",
     "title": "What Makes for an Effective Data Practitioner in 2024",
     "section": "Call to action",
-    "text": "Call to action\nWhat are you going to do to help fix this?\n\nStandardize Roles: Adopt a simplified and anchor categorization of job roles with clear definitions and expectations to reduce confusion and align understanding across the industry.\nUtilize Frameworks: Refer to established frameworks such as the IADSS Data Science Knowledge Framework to converge on the body of knowledge specification and ensure consistency in role definitions.\nSkills-Based Assessment: Implement objective, skills-based assessments to standardize the evaluation of data science professionals and ensure alignment with role requirements.\nIndustry-Specific Classifications: Extend the work to include industry-specific role classifications that cater to the unique needs and contexts of different sectors.\nBenchmarking and Comparison: Compare and contrast standardized role definitions with actual industry practices, such as analyzing LinkedIn job posts, to ensure relevance and applicability.\nCommunication and Education: Communicate the process and expectations clearly to all stakeholders, including hiring managers, executives, educators, and aspiring data science professionals, to align expectations.\nContinuous Role Evolution: Recognize that the field is dynamic, with new titles and roles emerging, and be open to further subclassification and evolution of data scientist roles.\nContinuous Tooling Evolution: Adopt new tools and techniques as needed and build a strong foundation on industry-standard tools.\n\n(Fayyad and Hamutcu 2022)"
+    "text": "Call to action\n\n\nPrioritize\nStandardize Roles\nUtilize Frameworks\nSkills-Based Assessment\nIndustry-Specific Classifications\nBenchmarking and Comparison\nCommunication and Education\nContinuous Role Evolution\nContinuous Tooling Evolution"
   },
   {
     "objectID": "index.html#references",
     "href": "index.html#references",
     "title": "What Makes for an Effective Data Practitioner in 2024",
     "section": "References",
-    "text": "References\n\n\nAdhikari, Ani, and Michael I. Jordan. 2021. “Interleaving Computational and Inferential Thinking in an Undergraduate Data Science Curriculum.” Harvard Data Science Review, March. https://doi.org/10.1162/99608f92.cb0fa8d2.\n\n\nCuadrado-Gallego, Juan J., and Yuri Demchenko. 2023. Data Analytics: A Theoretical and Practical View from the EDISON Project. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-031-39129-3.\n\n\nFayyad, Usama, and Hamit Hamutcu. 2022. “From Unicorn Data Scientist to Key Roles in Data Science: Standardizing Roles.” Harvard Data Science Review, July. https://doi.org/10.1162/99608f92.008b5006.\n\n\nHamutcu, Hamit, and Usama Fayyad. 2020. “Toward Foundations for Data Science and Analytics: A Knowledge Framework for Professional Standards.” Harvard Data Science Review, June. https://doi.org/10.1162/99608f92.1a99e67a.\n\n\nHarris, Harlan D., Sean Patrick Murphy, and Marck Vaisman. 2013. Analyzing the Analyzers: An Introspective Survey of Data Scientists and Their Work. First edition. Beijing: O’Reilly.\n\n\nHazzan, Orit, and Koby Mike. 2023. Guide to Teaching Data Science: An Interdisciplinary Approach. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-031-24758-3.\n\n\nSchmitt, Karl R. B., Linda Clark, Katherine M. Kinnaird, Ruth E. H. Wertz, and Björn Sandstede. 2023. “Evaluation of EDISON’s Data Science Competency Framework Through a Comparative Literature Analysis.” FoDS 5 (2): 177–98. https://doi.org/10.3934/fods.2021031.\n\n\nWeiser, Orli, Yoram M. Kalman, Carmel Kent, and Gilad Ravid. 2022. “65 Competencies: Which Ones Should Your Data Analytics Experts Have?” Commun. ACM 65 (3): 58–66. https://doi.org/10.1145/3467018."
+    "text": "References\n\n\nAdhikari, Ani, and Michael I. Jordan. 2021. “Interleaving Computational and Inferential Thinking in an Undergraduate Data Science Curriculum.” Harvard Data Science Review, March. https://doi.org/10.1162/99608f92.cb0fa8d2.\n\n\nCuadrado-Gallego, Juan J., and Yuri Demchenko. 2020. The Data Science Framework: A View from the EDISON Project. Edited by Juan J. Cuadrado-Gallego and Yuri Demchenko. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-030-51023-7.\n\n\nFayyad, Usama, and Hamit Hamutcu. 2022. “From Unicorn Data Scientist to Key Roles in Data Science: Standardizing Roles.” Harvard Data Science Review, July. https://doi.org/10.1162/99608f92.008b5006.\n\n\nHamutcu, Hamit, and Usama Fayyad. 2020. “Toward Foundations for Data Science and Analytics: A Knowledge Framework for Professional Standards.” Harvard Data Science Review, June. https://doi.org/10.1162/99608f92.1a99e67a.\n\n\nHarris, Harlan D., Sean Patrick Murphy, and Marck Vaisman. 2013. Analyzing the Analyzers: An Introspective Survey of Data Scientists and Their Work. First edition. Beijing: O’Reilly.\n\n\nHazzan, Orit, and Koby Mike. 2023. Guide to Teaching Data Science: An Interdisciplinary Approach. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-031-24758-3.\n\n\nSchmitt, Karl R. B., Linda Clark, Katherine M. Kinnaird, Ruth E. H. Wertz, and Björn Sandstede. 2023. “Evaluation of EDISON’s Data Science Competency Framework Through a Comparative Literature Analysis.” FoDS 5 (2): 177–98. https://doi.org/10.3934/fods.2021031.\n\n\nWeiser, Orli, Yoram M. Kalman, Carmel Kent, and Gilad Ravid. 2022. “65 Competencies: Which Ones Should Your Data Analytics Experts Have?” Commun. ACM 65 (3): 58–66. https://doi.org/10.1145/3467018."
   },
   {
-    "objectID": "index.html#technical-notes-and-more-skills",
-    "href": "index.html#technical-notes-and-more-skills",
+    "objectID": "index.html#technical-notes-and-more-relevant-skills",
+    "href": "index.html#technical-notes-and-more-relevant-skills",
     "title": "What Makes for an Effective Data Practitioner in 2024",
-    "section": "Technical Notes (and more skills…)",
-    "text": "Technical Notes (and more skills…)\n\nImages generated with the DALLE3 model on Azure OpenAI\nContent summarization performed by:\n\nChunking PDFs\nEmbedding with text-embedding-ada-002\nUsing AzureAI hybrid search\nSummarizing with GPT4\n\nPresentation written in Quarto and rendered as reveal.js and presented in browser"
+    "section": "Technical Notes (and more relevant skills…)",
+    "text": "Technical Notes (and more relevant skills…)\n\nImages generated with the DALL·E3 model on Azure OpenAI\nContent summarization and RAG:\n\nChunking PDFs\nEmbedding with text-embedding-ada-002\nUsing Azure AI (hybrid) Search\nSummarizing with GPT4\n\nPresentation written in Quarto and rendered as reveal.js and presented in browser"
   },
   {
-    "objectID": "index.html#lets-talk-about-education-and-industry-partnerships",
-    "href": "index.html#lets-talk-about-education-and-industry-partnerships",
+    "objectID": "index.html#whos-with-me-are-we-going-to-make-this-right",
+    "href": "index.html#whos-with-me-are-we-going-to-make-this-right",
     "title": "What Makes for an Effective Data Practitioner in 2024",
-    "section": "Let’s talk about education and industry partnerships!",
-    "text": "Let’s talk about education and industry partnerships!\n\n\n\n\nmarck.vaisman@microsoft.com\nmarck.vaisman@georgetown.edu\n wahalulu\n marckvaisman\n wahalulu"
+    "section": "Who’s with me? Are we going to make this right?",
+    "text": "Who’s with me? Are we going to make this right?\nLet’s talk about skilling the next generation!\n\n\n\n\n\nmarck.vaisman@microsoft.com\nmarck.vaisman@georgetown.edu\n wahalulu\n marckvaisman\n wahalulu"
   }
 ]
