@@ -131,21 +131,18 @@ ALL BY MYSELF
 
 :::
 
-## Evolution of Data Science and in-demand skills 2008-2024 (graphic not complete)
+## Evolution of Data Science and _hot_ skills 2008-2024
 
 :::{.incremental}
 - **_In the beginning_ (2008-2012):** `SQL`, `R`, `Python`, `scikit-learn`, `Pandas` 
-- **_Big Data_ (~2010 onwards):** `Hadoop`, `MapReduce`, `Hive`, `Spark` (in 2014)
-- **_Kaggle_ era:** `xgboost`
-- **_Data Product_ era:**
-- **_Deep Learning_ era (~2014 onwards):** NNets, CNNs,  
-- **_MLOps_ era:** `AutoML`, Models as APIs, `MLFlow`
+- **_Big Data_ (~2010 on):** `Hadoop`, `MapReduce`, `Hive`, `Spark` (in 2014)
+- **_Kaggle_ era (2011 on):** `xgboost`
+- **_Data Product_ era:** Product Management
+- **_Deep Learning_ era (~2014 onwards):** NNets, CNNs, GANs, `CUDA` 
+- **_MLOps_ era:** AutoML, Models as APIs, `MLFlow`
 - **_Cloud_ era:** IAAS, PAAS, SAAS, VMs, networking, security, infra-as-code
 - **_Responsible AI_ era (~2018 onwards):** XAI, Data privacy, Data governance, AI/ML safety
 - **_Generative AI_ era (~2022 onwards):** using LLMs, `langchain`, RAG pattern, building guardrails, prompt engineering, knowledge graphs
-
-
-`Parquet`, `arrow`, `polars`, `d3.js`
 
 Note: all times approximate and somewhat overlapping. Combination of skills and tools.
 :::
@@ -154,12 +151,6 @@ Note: all times approximate and somewhat overlapping. Combination of skills and 
 :::{.fragment}
 **Skills shown at their peak of hotness, and everything is cumulative!**
 :::
-
-## Evolution of Data Science and in-demand skills 2008-2024 (graphic not complete)
-
-[looking to change this to interactive]{style="color: red"}
-
-![](img/ds-evolution.svg){fig-align="center"}
 
 
 
@@ -440,7 +431,7 @@ In summary, while skills are specific to certain tasks, competencies are more co
 ::: {.column .r-fit-text}
 ### Data Visualization
 - Ability to present data effectively to the right audience
-- 
+- Storytelling
 
 :::
 ::::
@@ -459,7 +450,7 @@ In summary, while skills are specific to certain tasks, competencies are more co
 
 * **Ethics:** The integration of ethical and social issues into all areas of computer science and, by extension, data science. 
 
-* **Decision Intelligence:** Missing
+* **Decision Intelligence:** encompasses the processes, tools, and practices that enable organizations to make informed decisions based on data analysis and modelling.
 
 ## Data Analytics Competencies
 
@@ -529,55 +520,24 @@ The application of engineering principles and modern computer technologies to de
 
 ## Generative AI and other Competencies
 
-![](img/crop-genai.png){.absolute top=0 right=0 height=125}
+![](img/crop-genai.png){fig-align="center"}
 
-- Generative AI
-- MLOps
-- DevOps
-- 
 
 ## Higher level thinking!
 
 
 ![](img/model-thinking.png){.absolute top=0 right=0 height=125}
 
-Data thinking integrates computational thinking, statistical thinking, and domain thinking.
+**Data thinking** integrates computational thinking, statistical thinking, and domain thinking.
 
-:::: {.columns}
+**Computational thinking** is a set of cognitive and social skills applied in problem-solving processes that are important for everyone, not just computer scientists. It includes skills such as problem formulation, decomposition, organization, and logical analysis of data, and is recognized as a key 21st-century skill.
 
-::: {.column .r-fit-text}
+**Statistical thinking** involves the logical and statistical analysis of data, using visualizations and statistical methods to identify patterns and anomalies. It emphasizes the importance of preserving the meaning derived from the domain knowledge when performing any process or calculation on data.
 
-### Computational
+**Domain thinking** refers to the understanding and application of domain-specific knowledge in the context of data science. It involves the integration of computational and statistical thinking with the knowledge and context of a particular domain, such as social science or medicine, to improve computational models and domain understanding.
 
-Computational thinking is commonly defined as a set of cognitive and social skills that are applied in problem-solving processes.
+Together, these modes of thinking are essential components of data thinking, which is the integrated skill set needed to work effectively with data science. Data thinking treats algorithms and data equally, combining computational thinking, statistical thinking, mathematical conceptions, and context-based thinking associated with the application domain.
 
-- **Cognitive Ability**: It is a problem-solving process that involves _designing solutions to be implemented by a person, a computer, or both._
-- **Independent of Technology**: Its implementation is not dependent on technology.  
-- **Key Skills and Processes**: These include problem formulation, dividing a problem into sub-problems, organizing and logically analyzing data, representing data with models and simulations using abstraction, suggesting and assessing solutions, examining and implementing the chosen solution, and generalizing the solution to a range of problems.  
-- **Social Skills**: Teamwork, time management, and planning and scheduling tasks are also part of computational thinking.  
-- **Broad Knowledge**: Emphasizes the acquisition of multidisciplinary knowledge and skills that can be applied in various contexts.  
-:::
-
-::: {.column .r-fit-text}
-### Statistical
-
-The term statistical thinking was coined by Deming7 and developed by Moore.11 It has since received a great deal of attention and discussion with- in the statistics education community, and voices have emerged, calling for statistical thinking for all. Statistical thinking is associated with understanding the essence, characteristics, and variability of real-life data and its importance for solving real-life problems is.6 
-
-- **Understanding of Data**: Involves an understanding of the essence, characteristics, and variability of real-life data.  
-- **Statistical Inquiry**: Covers the entire process of statistical inquiry, from data collection to analysis and interpretation.  
-- **Use of Statistical Methods**: Addresses when and how to use specific statistical data analysis methods.  
-- **Sampling and Inference**: Refers to the nature of sampling and how to infer from samples to populations.  
-- **Statistical Models**: Includes the use of statistical models and their application.  
-- **Contextual Analysis**: Considers the context of a given problem when performing investigations and drawing conclusions.  
-:::
-
-::: {.column .r-fit-text}
-### Application Domain
- - **Domain-Specific Knowledge**: Understanding the core principles and ethical considerations within a specific application domain.  
- - **Data Curation**: Involves managing and organizing data relevant to the domain.  
- - **Knowledge Transference**: Communication and responsibility in transferring domain-specific insights.  
-:::
-::::
 
 [@hazzan_guide_2023; @adhikari_interleaving_2021]
 
@@ -628,19 +588,9 @@ The term statistical thinking was coined by Deming7 and developed by Moore.11 It
 9. Continuous Tooling Evolution  
 :::
 
-[@fayyad_unicorn_2022]
+
 
 ::: {.notes}
-1. Prioritize
-2. Standardize Roles  
-3. Utilize Frameworks  
-4. Skills-Based Assessment
-5. Industry-Specific Classifications
-6. Benchmarking and Comparison
-7. Communication and Education
-8. Continuous Role Evolution
-9. Continuous Tooling Evolution
-
 :::
 
 ## References
