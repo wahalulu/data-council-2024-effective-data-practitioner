@@ -656,4 +656,5 @@ Let's talk about skilling the next generation!
 - We havet to know a lot about a lot (tools, techniques)
 - We still don't know what we are
 - Many orgs still don't fully understand what they need
+- We are very hard on ourselves
 :::
