@@ -394,7 +394,7 @@ In summary, while skills are specific to certain tasks, competencies are more co
 
 ## To be effective, it's much more than an a-la-carte menu
 
-![](img/model-complete-arrow.png){fig-align="center" height="750"}
+![](img/model-complete-arrow.png){fig-align="center" height="750" .lightbox}
 
 [@weiser_65_2022; @hamutcu_toward_2020; @fayyad_unicorn_2022; @hazzan_guide_2023; @adhikari_interleaving_2021; @cuadrado-gallego_data_2020]
 
