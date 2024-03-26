@@ -14,7 +14,6 @@ format:
     slide-level: 2
     embed-resources: true
 bibliography: references.bib
-lightbox: auto
 ---
 
 # These are my _personal opinions_ and do not represent any organization
@@ -650,7 +649,6 @@ Let's talk about skilling the next generation!
 ::::
 
 ::: {.notes}
-## Closing thoughts
 - This *#$% is hard, especially when we keep a
 - Teaching it is even harder
 - We havet to know a lot about a lot (tools, techniques)
