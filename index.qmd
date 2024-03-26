@@ -14,12 +14,13 @@ format:
     slide-level: 2
     embed-resources: true
 bibliography: references.bib
+lightbox: auto
 ---
 
 # These are my _personal opinions_ and do not represent any organization
 
 ::: {.notes}
-
+i've been prepping for this a long time, 15 years. I'm coming to this from the perspective of a practitioner and educator.
 :::
 
 
@@ -43,7 +44,7 @@ ALL BY MYSELF
 :::
 
 ::: {.notes}
-14 years later we still struggle to have a decent roadmap and we may feel alone... but you're not.
+14 years later we still struggle to have a decent roadmap and we may feel alone, whether its imposted syndrome or not knowing something that you think you shloud know... but you're not.
 :::
 
 
@@ -88,9 +89,9 @@ ALL BY MYSELF
 [@harris_analyzing_2013]
 
 ::: {.notes}
-- **Data Businesspeople:** especially adept at understanding the business context around their data work, have strong business acumen and are often involved in decision-making processes. They are likely to be involved in generating actionable insights that can influence business strategies.
+- **Data Businesspeople:**  business context around their data work, have strong business acumen and are often involved in decision-making processes. generating actionable insights that can influence business strategies.
 
-- **Data Creatives:** the broadest of the data scientist clusters, they are characterized by their strong ability to tackle new problems with innovative solutions. They have a rich skill set that can adapt to various challenges and are often the ones to come up with novel approaches to data analysis.
+- **Data Creatives:** the broadest of the  clusters, they are characterized by their strong ability to tackle new problems with innovative solutions. They have a rich skill set that can adapt to various challenges and are often the ones to come up with novel approaches to data analysis.
 
 - **Data Developers:** focused on the technical problem-solving aspects of data science with skills in software engineering and are often responsible for building the infrastructure required for data analysis such as databases, pipelines, and data processing systems.
 
@@ -150,6 +151,10 @@ Note: all times approximate and somewhat overlapping. Combination of skills and 
 
 :::{.fragment}
 **Skills shown at their peak of hotness, and everything is cumulative!**
+:::
+
+::: {.notes}
+there's a lot missing from this slide
 :::
 
 
@@ -234,15 +239,19 @@ we screwed up somewhere along the way. between new tools, new technologies, not 
 ### Multiple and not mutually-exclusive definitions
 
 ::: {.incremental}
-- Science
 
-- Research paradigm
+1. **Science:** Data science as a continuation of empirical science's tradition of data analysis
 
-- Research method
+1. **Research Paradigm:** A new approach to conducting research
 
-- Workflow
+1. **Research Method:** A method that transforms the research process from deductive to inductive
 
-- Profession
+1. **Discipline:** An emerging academic field
+
+1. **Workflow:** A series of steps in data analysis
+
+1. **Profession:** A career focused on extracting knowledge and insights from data
+
 :::
 :::
 
@@ -297,7 +306,7 @@ I'm not planning on defining something that is hard to define. Look at all the p
 ::: {.notes}
 Anecdotes:
 - teaching big data hadoop beginning with command line
-- teaching data viz 
+- teaching critical thinking through dataviz
 - restructure curriculums to make them a continuous flow that builds on one another
 :::
 
@@ -609,6 +618,7 @@ Together, these modes of thinking are essential components of data thinking, whi
 - Presentation written in [Quarto](https://quarto.org/) and rendered as [`reveal.js`](https://revealjs.com/) and presented in browser
 
 
+  
 ## Who's with me? Are we going to make this right?
 
 Let's talk about skilling the next generation! 
@@ -638,3 +648,12 @@ Let's talk about skilling the next generation!
 :::
 
 ::::
+
+::: {.notes}
+## Closing thoughts
+- This *#$% is hard, especially when we keep a
+- Teaching it is even harder
+- We havet to know a lot about a lot (tools, techniques)
+- We still don't know what we are
+- Many orgs still don't fully understand what they need
+:::
